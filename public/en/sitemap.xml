@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/blog/aeropolen/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/categories/aerozaga%C4%91enje/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/blog/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/categories/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.zastitazdravlja.rs/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.zastitazdravlja.rs/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://www.zastitazdravlja.rs/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://www.zastitazdravlja.rs/pt/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.zastitazdravlja.rs/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/</loc>
+    <lastmod>2020-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.zastitazdravlja.rs/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.zastitazdravlja.rs/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://www.zastitazdravlja.rs/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://www.zastitazdravlja.rs/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.zastitazdravlja.rs/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/onama/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/categories/imunizaicija/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/blog/2020/imunizacija/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/categories/duvan/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/blog/obelezen-nacionalni-dan-bez-duvana-2020/</loc>
+    <lastmod>2020-02-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/blog/svetski-dan-borbe-protiv-raka-2020/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/categories/rak/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/blog/nacionalni-dan-bez-duvana-2020/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/blog/2020/evr%D0%BEps%D0%BA%D0%B0-n%D0%B5d%D0%B5lj%D0%B0-pr%D0%B5v%D0%B5nci%D1%98e-r%D0%B0%D0%BA%D0%B0-grlic%D0%B0-m%D0%B0t%D0%B5ric%D0%B5-2020-/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/analize/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/finansijski_izvestaji/arhiva/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/cenovnik/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/centar/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/centar/higijena/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/centar/epidemiologija/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/centar/mikrobiologija/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/centar/socijalna/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/finansijski_izvestaji/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/javne_nabavke/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/kontakt/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/opsti-akti/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/savetovalista/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/savetovalista/dpst/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/savetovalista/pusenje/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/savetovalista/ishrana/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/centar/opsta/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://www.zastitazdravlja.rs/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.zastitazdravlja.rs/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="http://www.zastitazdravlja.rs/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://www.zastitazdravlja.rs/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.zastitazdravlja.rs/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/usluge/higijena/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/usluge/epidemiologija/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/usluge/mikrobiologija/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.zastitazdravlja.rs/documents/usluge/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

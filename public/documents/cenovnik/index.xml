@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cenovnik on Zavod za javno zadrvlje Zrenjanin</title>
+    <link>http://www.zastitazdravlja.rs/documents/cenovnik/</link>
+    <description>Recent content in Cenovnik on Zavod za javno zadrvlje Zrenjanin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://www.zastitazdravlja.rs/documents/cenovnik/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
