@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="{{ .Page.Language | default "en" }}">
+{{ partial "head" . }}
+
+<body>
+  {{ partial "site-header" . }}
+  <div id="wrapper">
+    {{ partial "site-intro" . }}
+    <main id="site-main">
+      <article class="post">
+        <header>
+          <div class="title">
+            {{ if $.Scratch.Get "h1" }}
+            <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+            {{ $.Scratch.Set "h1" false }}
+            {{ else }}
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ end }}
+            {{ with .Description }}<p>{{ . }}</p>{{ end }}
+          </div>
+        </header>
+        <div id="content">
+          {{ .Content }}
+          <div class="contact-container">
+            {{ if .Params.netlify }}
+            <form name="contact" action="thank-you" netlify center width="300px">
+              {{ else }}
+              <form id="contact" action="//{{ .Params.emailService }}" method="post" center width="300px">
+                {{ end }}
+                <h4>{{ i18n "repliestext" .Params.contactanswertime }}</h4>
+                <fieldset>
+                  <input placeholder="{{ with .Params.contactname }}{{ . }}{{ else }}Name{{ end }}" type="text"
+                    name="name" tabindex="1" required autofocus>
+                </fieldset>
+                <fieldset>
+                  <input placeholder="{{ with .Params.contactemail }}{{ . }}{{ else }}Email{{ end }}" type="email"
+                    name="_replyto" tabindex="2" required>
+                </fieldset>
+                <fieldset>
+                  <input placeholder="{{ with .Params.contactsubject }}{{ . }}{{ else }}Subject{{ end }}" type="text"
+                    name="_subject" tabindex="3" required>
+                </fieldset>
+                <fieldset>
+                  <textarea placeholder="{{ with .Params.contactmessage }}{{ . }}{{ else }}Message{{ end }}"
+                    name="message" tabindex="4" required></textarea>
+                </fieldset>
+                <fieldset>
+                  <input type="hidden" name="_language" value="{{ .Params.contactlang }}">
+                </fieldset>
+                <fieldset>
+                  <button name="submit" class="button" type="submit" id="contact-submit"
+                    tabindex="5">{{ i18n "submit" }}</button>
+                </fieldset>
+              </form>
+              <hr>
+              <h3>Zavod za javno zdravlje Zrenjanin</h3>
+              <div>Dr Emila Gavrila 15<br>
+                23101 Zrenjanin<br>
+                PAK: 350206</div>
+              <div>
+                <strong>Telefon:</strong> 023/566-345<br>
+                <strong>Fax:</strong> 023/560-156<br>
+                <strong>email:</strong> kabinet_direktora@zastitazdravlja.rs<br>
+                <strong>PIB:</strong> 100655222<br>
+                <strong>MB:</strong> 08169454
+              </div>
+              <div>
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2802.3529416813476!2d20.39341895135549!3d45.38205074683929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475adb3f771ffa4b%3A0x9a9664647fb965b7!2sZavod%20za%20javno%20zdravlje%20Zrenjanin!5e0!3m2!1sen!2srs!4v1583231199349!5m2!1sen!2srs"
+                  width="800" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+              </div>
+          </div>
+        </div>
+      </article>
+    </main>
+    {{ partial "site-sidebar" . }}
+    {{ partial "site-footer" . }}
+    {{ partial "scripts" . }}
+  </div>
+</body>
+
+</html>
