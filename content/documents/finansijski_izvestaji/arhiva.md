@@ -5,12 +5,19 @@ description = "Dnevni finansijski izveštaji po godinama"
 linktitle = ""
 images = [""]
 
-
 +++
 
 ### 2020. godina
 ***
 **MART**  
+[25.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200325.pdf)  
+[24.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200324.pdf)  
+[23.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200323.pdf)  
+[20.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200320.pdf)  
+[19.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200319.pdf)  
+[18.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200318.pdf)  
+[17.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200317.pdf)  
+[16.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200316.pdf)  
 [13.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200313.pdf)  
 [12.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200312.pdf)  
 [11.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200311.pdf)  
