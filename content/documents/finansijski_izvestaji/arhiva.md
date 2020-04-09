@@ -9,7 +9,17 @@ images = [""]
 
 ### 2020. godina
 ***
+**APRIL**  
+[08.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200408.pdf)  
+[07.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200407.pdf)  
+[02.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200402.pdf)  
+[01.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200401.pdf)  
+
 **MART**  
+[31.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200331.pdf)  
+[30.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200330.pdf)  
+[27.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200327.pdf)  
+[26.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200326.pdf)  
 [25.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200325.pdf)  
 [24.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200324.pdf)  
 [23.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200323.pdf)  

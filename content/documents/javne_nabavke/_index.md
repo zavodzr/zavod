@@ -11,10 +11,18 @@ images = [""]
 
 ---  
 
+####  5/2020 - Etaloniranje laboratorijske opreme
+[Poziv](/docs/jn/05/poziv_05_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/05/jn_05_2020.pdf) ili [.docx](/docs/jn/05/jn_05_2020.docx)  
+[Pitanje broj 1](/docs/jn/05/pitanje_01.pdf)  
+
+---
+
 ####  3/2020 - Nabavka kancelarijskog materijala
 [Poziv](/docs/jn/03/poziv_03_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/03/jn_03_2020.pdf) ili [.docx](/docs/jn/03/jn_03_2020.docx)  
 [Odluka o dodeli Ugovora](/docs/jn/03/odluka_o_dodeli_ugovora.pdf)  
+[Izmena Odluke o dodeli Ugovora](/docs/jn/03/izmena_odluke_o_dodeli_ugovora.pdf)  
 
 ---  
 
@@ -23,10 +31,12 @@ Konkurska dokumentacija [.pdf](/docs/jn/03/jn_03_2020.pdf) ili [.docx](/docs/jn/
 Konkurska dokumentacija [.pdf](/docs/jn/04/jn_04_2020.pdf) ili [.docx](/docs/jn/04/jn_04_2020.docx)  
 [Odluka o dodeli Ugovora](/docs/jn/04/odluka_o_dodeli_ugovora.pdf)  
 [Odluka o obustavi postupka](/docs/jn/04/odluka_o_obustavi_postupka.pdf)  
+[Obaveštenje o obustavi postupka](/docs/jn/04/obavestenje_o_obustavi_postupka.pdf)  
 
 ---  
 
 ####  1/2020 - Električna energija
 [Poziv](/docs/jn/01/poziv_01_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/01/jn_01_2020.pdf) ili [.docx](/docs/jn/01/jn_01_2020.docx)  
-[Odluka o dodeli Ugovora](/docs/jn/01/odluka_o_dodeli.pdf)
+[Odluka o dodeli Ugovora](/docs/jn/01/odluka_o_dodeli.pdf)  
+[Obaveštenje o zaključenom Ugovoru](/docs/jn/01/obavestenje_o_zakljucenom_ugovoru.pdf)  
