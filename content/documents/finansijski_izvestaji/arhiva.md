@@ -8,12 +8,17 @@ images = [""]
 +++
 
 ### 2020. godina
-***
+
+---
+
 **APRIL**  
+[14.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200414.pdf)  
+[13.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200413.pdf)  
+[09.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200409.pdf)  
 [08.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200408.pdf)  
 [07.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200407.pdf)  
 [02.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200402.pdf)  
-[01.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200401.pdf)  
+[01.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200401.pdf)
 
 **MART**  
 [31.03.2020.](/docs/finansijski_izvestaji/dfi/2020/03/20200331.pdf)  
@@ -57,8 +62,10 @@ images = [""]
 [06.02.2020.](/docs/finansijski_izvestaji/dfi/2020/02/20200206.pdf)  
 [05.02.2020.](/docs/finansijski_izvestaji/dfi/2020/02/20200205.pdf)  
 [04.02.2020.](/docs/finansijski_izvestaji/dfi/2020/02/20200204.pdf)  
-[03.02.2020.](/docs/finansijski_izvestaji/dfi/2020/02/20200203.pdf)  
-***
+[03.02.2020.](/docs/finansijski_izvestaji/dfi/2020/02/20200203.pdf)
+
+---
+
 **JANUAR**  
 [31.01.2020.](/docs/finansijski_izvestaji/dfi/2020/01/20200131.pdf)  
 [30.01.2020.](/docs/finansijski_izvestaji/dfi/2020/01/20200130.pdf)  
@@ -77,4 +84,4 @@ images = [""]
 [10.01.2020.](/docs/finansijski_izvestaji/dfi/2020/01/20200110.pdf)  
 [09.01.2020.](/docs/finansijski_izvestaji/dfi/2020/01/20200109.pdf)  
 [08.01.2020.](/docs/finansijski_izvestaji/dfi/2020/01/20200108.pdf)  
-[03.01.2020.](/docs/finansijski_izvestaji/dfi/2020/01/20200103.pdf)  
+[03.01.2020.](/docs/finansijski_izvestaji/dfi/2020/01/20200103.pdf)
