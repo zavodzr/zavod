@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Aerozagađenje"]
-date = "2020-04-10"
+date = "2020-04-23"
 description = "Praćenje stanja aeropolena u vazduhu"
 images = ["/img/aeropolen/pollen_1920_700.jpg"]
 linktitle = ""
@@ -17,6 +17,7 @@ Monitoring polena u vazduhu na teritoriji AP Vojvodine sprovodi Univerzitet u No
 ![Aeropolen](/img/aeropolen/zr-polen.png "Aeropolen")
 
 ### Godišnji izveštaji
+
 [2019. godina](/docs/aeropolen_godisnji/ZR_polen_2019.pdf)  
 [2018. godina](/docs/aeropolen_godisnji/ZR_polen_2018.pdf)  
 [2017. godina](/docs/aeropolen_godisnji/ZR_polen_2017.pdf)  

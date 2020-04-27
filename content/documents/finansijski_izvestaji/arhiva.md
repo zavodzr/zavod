@@ -12,6 +12,10 @@ images = [""]
 ---
 
 **APRIL**  
+[24.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200424.pdf)  
+[23.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200423.pdf)  
+[16.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200416.pdf)  
+[15.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200415.pdf)  
 [14.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200414.pdf)  
 [13.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200413.pdf)  
 [09.04.2020.](/docs/finansijski_izvestaji/dfi/2020/04/20200409.pdf)  
