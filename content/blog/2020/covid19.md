@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2020-04-24"
+date = "2020-05-12"
 description = "Informacije o novom korona virusu - COVID19"
 images = ["/img/main/koronavirus.png"]
 linktitle = ""
