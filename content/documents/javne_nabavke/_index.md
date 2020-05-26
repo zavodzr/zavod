@@ -21,7 +21,10 @@ Konkurska dokumentacija [.pdf](/docs/jn/07/jn_07_2020.pdf) ili [.docx](/docs/jn/
 #### 6/2020 - Usluge održavanja medicnske i laboratorijske opreme
 
 [Poziv](/docs/jn/06/poziv_06_2020.pdf)  
-Konkurska dokumentacija [.pdf](/docs/jn/06/jn_06_2020.pdf) ili [.docx](/docs/jn/06/jn_06_2020.docx)
+Konkurska dokumentacija [.pdf](/docs/jn/06/jn_06_2020.pdf) ili [.docx](/docs/jn/06/jn_06_2020.docx)  
+[Odluka o dodeli Ugovora](/docs/jn/06/odluka_o_dodeli_ugovora.pdf)  
+[Odluka o obustavi postupka](/docs/jn/06/odluka_o_obustavi_postupka.pdf)  
+[Obaveštenje o obustavi postupka](/docs/jn/06/obavestenje_o_obustavi_postupka.pdf)
 
 ---
 
