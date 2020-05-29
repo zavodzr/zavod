@@ -11,10 +11,16 @@ images = [""]
 
 ---
 
+#### 8/2020 - Usluge održavanja medicnske i laboratorijske opreme
+
+[Poziv](/docs/jn/08/poziv_08_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/08/jn_08_2020.pdf) ili [.docx](/docs/jn/08/jn_08_2020.docx)
+
 #### 7/2020 - Materijal za dezinfekciju, dezinsekciju i deratizaciju
 
 [Poziv](/docs/jn/07/poziv_07_2020.pdf)  
-Konkurska dokumentacija [.pdf](/docs/jn/07/jn_07_2020.pdf) ili [.docx](/docs/jn/07/jn_07_2020.docx)
+Konkurska dokumentacija [.pdf](/docs/jn/07/jn_07_2020.pdf) ili [.docx](/docs/jn/07/jn_07_2020.docx)  
+[Odluka o dodeli Ugovora](/docs/jn/07/odluka_o_dodeli_ugovora.pdf)
 
 ---
 

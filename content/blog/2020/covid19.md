@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2020-05-21"
+date = "2020-05-28"
 description = "Informacije o novom korona virusu - COVID19"
 images = ["/img/main/koronavirus.png"]
 linktitle = ""
@@ -9,22 +9,6 @@ title = "Novi korona virus - informacije"
 type = "post"
 
 +++
-
-</br>
-  
-[![Kontakt telefon 19819](/img/covid19/telefon-19-819-01-v2-01-1024x219.jpg "Kontakt telefon 19819")](tel:19819)
-
-[![Pomoć starim licima 19920](/img/covid19/telefon-19-920-pomoc-starim-licima-01-1024x219.jpg "Pomoć starim licima 19920")](tel:19920)
-
-[![Viber grupa](/img/covid19/viber-kontakt-05-01-1024x219.jpg "Viber grupa")](https://vb.me/f0a017)
-
-## Kontekt telefoni Zavoda za javno zadravlje Zrenjanin
-
-## [069/2-101-102](tel:0622101102)
-
-## [069/3-101-102](tel:0623101102)
-
-## Preporuke kako da se zaštitite
 
 **{{< target-blank title="Nоvi коrоnа virus - како dа sе zаštititе?" url="/docs/covid19/1Novi_korona_virus_kako_da_se_zastitite.pdf" >}}**  
 **{{< target-blank title="Nоvi коrоnа virus - како dа sе zаštititе?" url="/docs/covid19/2Novi_korona_virus_kako_da_se_zastitite.pdf" >}}**  
