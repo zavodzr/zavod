@@ -14,7 +14,8 @@ images = [""]
 #### 8/2020 - Usluge održavanja medicnske i laboratorijske opreme
 
 [Poziv](/docs/jn/08/poziv_08_2020.pdf)  
-Konkurska dokumentacija [.pdf](/docs/jn/08/jn_08_2020.pdf) ili [.docx](/docs/jn/08/jn_08_2020.docx)
+Konkurska dokumentacija [.pdf](/docs/jn/08/jn_08_2020.pdf) ili [.docx](/docs/jn/08/jn_08_2020.docx)  
+[Dodatno pojašnjenje broj 1](/docs/jn/08/dodatno_pojasnjenje_01.pdf)
 
 #### 7/2020 - Materijal za dezinfekciju, dezinsekciju i deratizaciju
 
