@@ -11,6 +11,11 @@ images = [""]
 
 ---
 
+#### 9/2020 - Etaloniranje laboratorijske opreme
+
+[Poziv](/docs/jn/09/poziv_09_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/09/jn_09_2020.pdf) ili [.docx](/docs/jn/09/jn_09_2020.docx)
+
 #### 8/2020 - Usluge održavanja medicnske i laboratorijske opreme
 
 [Poziv](/docs/jn/08/poziv_08_2020.pdf)  
