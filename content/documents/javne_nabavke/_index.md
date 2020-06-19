@@ -11,16 +11,37 @@ images = [""]
 
 ---
 
+#### 10/2020 - Usluge održavanja medicnske i laboratorijske opreme
+
+[Poziv](/docs/jn/10/poziv_10_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/10/jn_10_2020.pdf) ili [.docx](/docs/jn/10/jn_10_2020.docx)  
+[Pitanje broj 1](/docs/jn/10/pitanje_01.pdf)
+
+---
+
+#### 11/2020 - Laboratorijski materijal
+
+[Poziv](/docs/jn/11/poziv_11_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/11/jn_11_2020.pdf) ili [.docx](/docs/jn/11/jn_11_2020.docx)
+
+---
+
 #### 9/2020 - Etaloniranje laboratorijske opreme
 
 [Poziv](/docs/jn/09/poziv_09_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/09/jn_09_2020.pdf) ili [.docx](/docs/jn/09/jn_09_2020.docx)
 
+---
+
 #### 8/2020 - Usluge održavanja medicnske i laboratorijske opreme
 
 [Poziv](/docs/jn/08/poziv_08_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/08/jn_08_2020.pdf) ili [.docx](/docs/jn/08/jn_08_2020.docx)  
-[Dodatno pojašnjenje broj 1](/docs/jn/08/dodatno_pojasnjenje_01.pdf)
+[Dodatno pojašnjenje broj 1](/docs/jn/08/dodatno_pojasnjenje_01.pdf)  
+[Odluka o dodeli Ugovora](/docs/jn/08/odluka_o_dodeli_ugovora.pdf)  
+[Odluka o obustavi postupka](/docs/jn/08/odluka_o_obustavi_postupka.pdf)
+
+---
 
 #### 7/2020 - Materijal za dezinfekciju, dezinsekciju i deratizaciju
 
@@ -52,14 +73,15 @@ Konkurska dokumentacija [.pdf](/docs/jn/02/jn_02_2020.pdf) ili [.docx](/docs/jn/
 [Pitanje broj 5](/docs/jn/02/pitanje_05.pdf)  
 [Izmena konkursne dokumentacije broj 2](/docs/jn/02/izmena_02.pdf)  
 [Pitanje broj 6](/docs/jn/02/pitanje_06.pdf)  
-[Obaveštenja o produženju roka](/docs/jn/02/obavestenje_o_produzenju_roka.pdf)
+[Obaveštenja o produženju roka](/docs/jn/02/obavestenje_o_produzenju_roka.pdf)  
 [Pitanje broj 7](/docs/jn/02/pitanje_07.pdf)  
 [Pitanje broj 8](/docs/jn/02/pitanje_08.pdf)  
 [Pitanje broj 9](/docs/jn/02/pitanje_09.pdf)  
 [Pitanje broj 10](/docs/jn/02/pitanje_10.pdf)  
 [Pitanje broj 11](/docs/jn/02/pitanje_11.pdf)  
 [Pitanje broj 12](/docs/jn/02/pitanje_12.pdf)  
-[Pitanje broj 13](/docs/jn/02/pitanje_13.pdf)
+[Pitanje broj 13](/docs/jn/02/pitanje_13.pdf)  
+[Obaveštenje o obustavi postupka](/docs/jn/02/obavestenje_o_obustavi_postupka.pdf)
 
 ---
 
