@@ -11,7 +11,23 @@ images = [""]
 
 ---
 
+**JUL**  
+[08.07.2020.](/docs/finansijski_izvestaji/dfi/2020/07/20200708.pdf)  
+[07.07.2020.](/docs/finansijski_izvestaji/dfi/2020/07/20200707.pdf)  
+[06.07.2020.](/docs/finansijski_izvestaji/dfi/2020/07/20200706.pdf)  
+[03.07.2020.](/docs/finansijski_izvestaji/dfi/2020/07/20200703.pdf)  
+[02.07.2020.](/docs/finansijski_izvestaji/dfi/2020/07/20200702.pdf)  
+[01.07.2020.](/docs/finansijski_izvestaji/dfi/2020/07/20200701.pdf)
+
 **JUN**  
+[30.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200630.pdf)  
+[29.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200629.pdf)  
+[26.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200626.pdf)  
+[25.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200625.pdf)  
+[24.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200624.pdf)  
+[23.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200623.pdf)  
+[22.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200622.pdf)  
+[19.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200619.pdf)  
 [18.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200618.pdf)  
 [17.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200617.pdf)  
 [16.06.2020.](/docs/finansijski_izvestaji/dfi/2020/06/20200616.pdf)  
