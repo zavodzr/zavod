@@ -11,7 +11,21 @@ images = [""]
 
 ---
 
-#### 10/2020 - Usluge održavanja medicnske i laboratorijske opreme
+#### 15/2020 - Nabavka medicinske opreme - Laminarna komora
+
+[Poziv](/docs/jn/15/poziv_15_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/15/jn_15_2020.pdf) ili [.docx](/docs/jn/15/jn_15_2020.docx)
+
+---
+
+#### 13/2020 - Nabavka medicinske opreme - 2
+
+[Poziv](/docs/jn/13/poziv_13_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/13/jn_13_2020.pdf) ili [.docx](/docs/jn/13/jn_13_2020.docx)
+
+---
+
+#### 10/2020 - Usluge održavanja medicinske i laboratorijske opreme
 
 [Poziv](/docs/jn/10/poziv_10_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/10/jn_10_2020.pdf) ili [.docx](/docs/jn/10/jn_10_2020.docx)  
@@ -24,7 +38,9 @@ Konkurska dokumentacija [.pdf](/docs/jn/10/jn_10_2020.pdf) ili [.docx](/docs/jn/
 
 [Poziv](/docs/jn/11/poziv_11_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/11/jn_11_2020.pdf) ili [.docx](/docs/jn/11/jn_11_2020.docx)  
-[Pitanje broj 1](/docs/jn/11/pitanje_01.pdf)
+[Pitanje broj 1](/docs/jn/11/pitanje_01.pdf)  
+[Odluka o dodeli Ugovora](/docs/jn/11/odluka_o_dodeli_ugovora.pdf)  
+[Odluka o obustavi postupka](/docs/jn/11/odluka_o_obustavi_postupka.pdf)
 
 ---
 
@@ -36,7 +52,7 @@ Konkurska dokumentacija [.pdf](/docs/jn/09/jn_09_2020.pdf) ili [.docx](/docs/jn/
 
 ---
 
-#### 8/2020 - Usluge održavanja medicnske i laboratorijske opreme
+#### 8/2020 - Usluge održavanja medicinske i laboratorijske opreme
 
 [Poziv](/docs/jn/08/poziv_08_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/08/jn_08_2020.pdf) ili [.docx](/docs/jn/08/jn_08_2020.docx)  
@@ -55,7 +71,7 @@ Konkurska dokumentacija [.pdf](/docs/jn/07/jn_07_2020.pdf) ili [.docx](/docs/jn/
 
 ---
 
-#### 6/2020 - Usluge održavanja medicnske i laboratorijske opreme
+#### 6/2020 - Usluge održavanja medicinske i laboratorijske opreme
 
 [Poziv](/docs/jn/06/poziv_06_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/06/jn_06_2020.pdf) ili [.docx](/docs/jn/06/jn_06_2020.docx)  

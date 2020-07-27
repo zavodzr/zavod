@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Kupališta"]
-date = "2020-07-06"
+date = "2020-07-16"
 description = "Rezultati monitoringa površinskih voda na kupalištima tokom 2020. godine"
 images = ["/img/main/Grad_Zrenjanin_750.jpg"]
 linktitle = ""
@@ -9,6 +9,52 @@ title = "Kvalitet vode na kupalištima"
 type = "post"
 
 +++
+
+### JUL
+
+<table>
+    <thead>
+        <tr>
+            <th>Datum uzorkovanja</th>
+            <th>
+              Reka Tisa</br>
+              Žabaljski most</br>
+              Talpa
+            </th>
+            <th>
+              Reka Tisa</br>
+              Žabaljski most</br>
+              Uzvodno od talpe
+            </th>
+            <th>
+              Peskara</br>
+              Merno mesto 1</br>
+              Leva strana
+            </th>
+            <th>
+              Peskara</br>
+              Merno mesto 2</br>
+              Desna strana
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>02.07.2020.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>07.07.2020.</td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+    </tbody>
+</table>
 
 ### JUN
 
