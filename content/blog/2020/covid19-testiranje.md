@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2020-07-27"
+date = "2020-07-29"
 description = "Instrukcija za serološko testiranje primenom brzih imunohromatografskih testova na lični zahtev"
 images = ["/img/main/koronavirus.png"]
 linktitle = ""
@@ -9,6 +9,12 @@ title = "Testiranje na korona virus"
 type = "post"
 
 +++
+
+Тrenutno se u Zavodu za javno zdravlje Zrenjanin na lični zahtev može uraditi jedino serološko testiranje **brzim imunohromatografskim testom**.
+
+Testiranje **RT-PCR metodom** na lični zahtev **nije moguće** uraditi.
+
+Testiranje RT-PCR metodom na lični zahtev je moguće obaviti u Novom Sadu, za više informacija pogledajte sajt **{{< target-blank title="Instituta za javno zdravlje Vojvodine" url="http://www.izjzv.org.rs/?lng=lat&cir=0&link=3-15-1824" >}}**.
 
 Instrukcije za uplatu sredstava za uslugu testiranja na prisustvo SARS-CoV2 na lični zahtev na podračun Republičkog fonda za zdravstveno osiguranje broj **840-17750-34 PODRAČUN ZA POSEBNE NAMENE REPUBLIČKOG FONDA ZA ZDRAVSTVENO OSIGURANJE ZA USLUGE SEROLOŠKOG TESTIRANJA NA SARS-CoV2 BRZIM IMUNOHROMATOGRAFSKIM TESTOM**.
 
