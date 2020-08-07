@@ -21,7 +21,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/15/jn_15_2020.pdf) ili [.docx](/docs/jn/
 #### 13/2020 - Nabavka medicinske opreme - 2
 
 [Poziv](/docs/jn/13/poziv_13_2020.pdf)  
-Konkurska dokumentacija [.pdf](/docs/jn/13/jn_13_2020.pdf) ili [.docx](/docs/jn/13/jn_13_2020.docx)
+Konkurska dokumentacija [.pdf](/docs/jn/13/jn_13_2020.pdf) ili [.docx](/docs/jn/13/jn_13_2020.docx)  
+[Odluka o dodeli Ugovora](/docs/jn/13/odluka_o_dodeli_ugovora.pdf)
 
 ---
 
@@ -30,7 +31,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/13/jn_13_2020.pdf) ili [.docx](/docs/jn/
 [Poziv](/docs/jn/10/poziv_10_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/10/jn_10_2020.pdf) ili [.docx](/docs/jn/10/jn_10_2020.docx)  
 [Pitanje broj 1](/docs/jn/10/pitanje_01.pdf)  
-[Odluka o dodeli Ugovora](/docs/jn/10/odluka_o_dodeli_ugovora.pdf)
+[Odluka o dodeli Ugovora](/docs/jn/10/odluka_o_dodeli_ugovora.pdf)  
+[Obaveštenje o zaključenom Ugovoru](/docs/jn/10/obavestenje_o_zakljucenom_ugovoru.pdf)
 
 ---
 
@@ -40,7 +42,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/10/jn_10_2020.pdf) ili [.docx](/docs/jn/
 Konkurska dokumentacija [.pdf](/docs/jn/11/jn_11_2020.pdf) ili [.docx](/docs/jn/11/jn_11_2020.docx)  
 [Pitanje broj 1](/docs/jn/11/pitanje_01.pdf)  
 [Odluka o dodeli Ugovora](/docs/jn/11/odluka_o_dodeli_ugovora.pdf)  
-[Odluka o obustavi postupka](/docs/jn/11/odluka_o_obustavi_postupka.pdf)
+[Odluka o obustavi postupka](/docs/jn/11/odluka_o_obustavi_postupka.pdf)  
+[Obaveštenje o zaključenim Ugovorima](/docs/jn/11/obavestenje_o_zakljucenim_ugovorima.pdf)
 
 ---
 

@@ -11,6 +11,12 @@ images = [""]
 
 ---
 
+**AVGUST**  
+[06.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200806.pdf)  
+[05.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200805.pdf)  
+[04.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200804.pdf)  
+[03.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200803.pdf)
+
 **JUL**  
 [31.07.2020.](/docs/finansijski_izvestaji/dfi/2020/07/20200731.pdf)  
 [30.07.2020.](/docs/finansijski_izvestaji/dfi/2020/07/20200730.pdf)  
