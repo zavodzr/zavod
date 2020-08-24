@@ -14,7 +14,8 @@ images = [""]
 #### 15/2020 - Nabavka medicinske opreme - Laminarna komora
 
 [Poziv](/docs/jn/15/poziv_15_2020.pdf)  
-Konkurska dokumentacija [.pdf](/docs/jn/15/jn_15_2020.pdf) ili [.docx](/docs/jn/15/jn_15_2020.docx)
+Konkurska dokumentacija [.pdf](/docs/jn/15/jn_15_2020.pdf) ili [.docx](/docs/jn/15/jn_15_2020.docx)  
+[Obaveštenje o zaključenom Ugovoru](/docs/jn/15/obavestenje_o_zakljucenom_ugovoru.pdf)
 
 ---
 

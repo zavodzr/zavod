@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Kupališta"]
-date = "2020-07-28"
+date = "2020-08-11"
 description = "Rezultati monitoringa površinskih voda na kupalištima tokom 2020. godine"
 images = ["/img/main/Grad_Zrenjanin_750.jpg"]
 linktitle = ""
@@ -85,6 +85,27 @@ type = "post"
         <td>21.07.2020.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+      </tr>
+      <tr>
+        <td>23.07.2020.</td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>28.07.2020.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+      </tr>
+      <tr>
+        <td>30.07.2020.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
         <td style="background-color: #fff403;"></td>
         <td style="background-color: #fff403;"></td>
       </tr>
