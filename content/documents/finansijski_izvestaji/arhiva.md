@@ -11,7 +11,19 @@ images = [""]
 
 ---
 
+**SEPTEMBAR**  
+[04.09.2020.](/docs/finansijski_izvestaji/dfi/2020/09/20200904.pdf)  
+[03.09.2020.](/docs/finansijski_izvestaji/dfi/2020/09/20200903.pdf)  
+[02.09.2020.](/docs/finansijski_izvestaji/dfi/2020/09/20200902.pdf)  
+[01.09.2020.](/docs/finansijski_izvestaji/dfi/2020/09/20200901.pdf)
+
 **AVGUST**  
+[31.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200831.pdf)  
+[28.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200828.pdf)  
+[27.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200827.pdf)  
+[26.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200826.pdf)  
+[25.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200825.pdf)  
+[24.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200824.pdf)  
 [21.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200821.pdf)  
 [20.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200820.pdf)  
 [19.08.2020.](/docs/finansijski_izvestaji/dfi/2020/08/20200819.pdf)  

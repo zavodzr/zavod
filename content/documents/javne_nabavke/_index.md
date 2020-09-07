@@ -11,6 +11,15 @@ images = [""]
 
 ---
 
+#### 12/2020 - Nabavka medicinske opreme
+
+[Poziv](/docs/jn/12/poziv_12_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/12/jn_12_2020.pdf) ili [.docx](/docs/jn/12/jn_12_2020.docx)  
+[Odgovor na zahtev za dodatna pojašnjenja broj 1](/docs/jn/12/zahtev_za_pojasnjenje_01.pdf)  
+[Odluka o dodeli Ugovora](/docs/jn/12/odluka_o_dodeli_ugovora.pdf)
+
+---
+
 #### 15/2020 - Nabavka medicinske opreme - Laminarna komora
 
 [Poziv](/docs/jn/15/poziv_15_2020.pdf)  

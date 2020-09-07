@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Kupališta"]
-date = "2020-08-11"
+date = "2020-08-28"
 description = "Rezultati monitoringa površinskih voda na kupalištima tokom 2020. godine"
 images = ["/img/main/Grad_Zrenjanin_750.jpg"]
 linktitle = ""
@@ -9,6 +9,87 @@ title = "Kvalitet vode na kupalištima"
 type = "post"
 
 +++
+
+### AVGUST
+
+<table>
+    <thead>
+        <tr>
+            <th>Datum uzorkovanja</th>
+            <th>
+              Reka Tisa</br>
+              Žabaljski most</br>
+              Talpa
+            </th>
+            <th>
+              Reka Tisa</br>
+              Žabaljski most</br>
+              Uzvodno od talpe
+            </th>
+            <th>
+              Peskara</br>
+              Merno mesto 1</br>
+              Leva strana
+            </th>
+            <th>
+              Peskara</br>
+              Merno mesto 2</br>
+              Desna strana
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>04.08.2020.</td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+      </tr>
+      <tr>
+        <td>06.08.2020.</td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+      </tr>
+      <tr>
+        <td>11.08.2020.</td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>13.08.2020.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>18.08.2020.</td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>20.08.2020.</td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>25.08.2020.</td>
+        <td>Analize su u toku</td>
+        <td>Analize su u toku</td>
+        <td>Analize su u toku</td>
+        <td>Analize su u toku</td>
+      </tr>
+    </tbody>
+</table>
 
 ### JUL
 
