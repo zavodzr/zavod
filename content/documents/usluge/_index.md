@@ -1,6 +1,6 @@
 +++
 author = "admin"
-title = "Usluge koje pruža Zavoda za javno zadrvlje Zrenjanin"
+title = "Usluge koje pruža Zavoda za javno zadravlje Zrenjanin"
 description = ""
 linktitle = ""
 images = [""]
@@ -14,8 +14,6 @@ Centar za kontrolu i prevenciju bolesti paruža usluge iz oblasti epidemiologije
 
 ### [Centar za mikrobiologiju](/documents/usluge/mikrobiologija/)
 
-
 ### [Centar za higijenu i humanu ekologiju](/documents/usluge/higijena/)
-
 
 ### [Centar za kontrolu i prevenciju bolesti](/documents/usluge/epidemiologija/)
