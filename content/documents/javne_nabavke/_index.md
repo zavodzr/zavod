@@ -11,6 +11,13 @@ images = [""]
 
 ---
 
+#### 14/2020 - Nabavka goriva
+
+[Poziv](/docs/jn/14/poziv_14_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/14/jn_14_2020.pdf) ili [.docx](/docs/jn/14/jn_14_2020.docx)  
+
+---
+
 #### 12/2020 - Nabavka medicinske opreme
 
 [Poziv](/docs/jn/12/poziv_12_2020.pdf)  

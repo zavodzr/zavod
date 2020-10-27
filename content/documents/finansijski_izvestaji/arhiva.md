@@ -11,7 +11,29 @@ images = [""]
 
 ---
 
+**OKTOBAR**  
+[26.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201026.pdf)  
+[23.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201023.pdf)  
+[22.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201022.pdf)  
+[21.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201021.pdf)  
+[20.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201020.pdf)  
+[19.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201019.pdf)  
+[16.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201016.pdf)  
+[15.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201015.pdf)  
+[14.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201014.pdf)  
+[13.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201013.pdf)  
+[12.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201012.pdf)  
+[09.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201009.pdf)  
+[08.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201008.pdf)  
+[07.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201007.pdf)  
+[06.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201006.pdf)  
+[05.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201005.pdf)  
+[02.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201002.pdf)  
+[01.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201001.pdf)
+
 **SEPTEMBAR**  
+[30.09.2020.](/docs/finansijski_izvestaji/dfi/2020/09/20200930.pdf)  
+[29.09.2020.](/docs/finansijski_izvestaji/dfi/2020/09/20200929.pdf)  
 [28.09.2020.](/docs/finansijski_izvestaji/dfi/2020/09/20200928.pdf)  
 [25.09.2020.](/docs/finansijski_izvestaji/dfi/2020/09/20200925.pdf)  
 [24.09.2020.](/docs/finansijski_izvestaji/dfi/2020/09/20200924.pdf)  

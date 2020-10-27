@@ -1,6 +1,6 @@
 +++
 author = "admin"
-categories = ["Imunizaicija"]
+categories = ["Imunizacija"]
 date = "2020-02-10"
 description = "Dvodnevni trening"
 images = ["/img/trening-imunizacija-2020/imunizacija-2020.JPG"]
@@ -10,9 +10,9 @@ type = "post"
 
 +++
 
-U zavodu za javno zdravlje Zrenjanin, u periodu od 07.02.2020 - 08.02.2020. godine, održan je dvodnevni trening pod nazivom _"Unapređenje komunikacije između roditelja i pedijatara u cilju pravovremene i kompletne imunizacije dece"_. Uzimajući u obzir probleme u sprovođenju imunizacije, pre svega problema odbijanja imunizacije, smatra se da bi ovakve edukacije mogle da se povećaju vakcinalni obuhvat u narednom periodu.  
+U zavodu za javno zdravlje Zrenjanin, u periodu od 07.02.2020 - 08.02.2020. godine, održan je dvodnevni trening pod nazivom _"Unapređenje komunikacije između roditelja i pedijatara u cilju pravovremene i kompletne imunizacije dece"_. Uzimajući u obzir probleme u sprovođenju imunizacije, pre svega problema odbijanja imunizacije, smatra se da bi ovakve edukacije mogle da se povećaju vakcinalni obuhvat u narednom periodu.
 
-Trening su sprovela četiri sertifikovana trenera, koji su od strane Američkog univerzitetskog centra "Džon Hopkins" i UNICEF-a u Srbiji prošli obuku za neposrednu komunikaciju za imunizaciju za zdravstvene radnike koji se bave sprovođenjem imunizacije. Treningu su prisustvovali pedijatri i lekari zaposleni u Domovima zdravlja Srednjebanatskog okruga, sa njihovim timskim sestrama, kao i patronažne sestre Domova zdravlja.  
+Trening su sprovela četiri sertifikovana trenera, koji su od strane Američkog univerzitetskog centra "Džon Hopkins" i UNICEF-a u Srbiji prošli obuku za neposrednu komunikaciju za imunizaciju za zdravstvene radnike koji se bave sprovođenjem imunizacije. Treningu su prisustvovali pedijatri i lekari zaposleni u Domovima zdravlja Srednjebanatskog okruga, sa njihovim timskim sestrama, kao i patronažne sestre Domova zdravlja.
 
 {{< fancybox path="/img/trening-imunizacija-2020/" file="DSCF2523.JPG" caption="Foto #1" gallery="Trening Unapređenje komunikacije" >}}
 {{< fancybox path="/img/trening-imunizacija-2020/" file="DSCF2524.JPG" caption="Foto #2" gallery="Trening Unapređenje komunikacije" >}}
