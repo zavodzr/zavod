@@ -11,7 +11,19 @@ images = [""]
 
 ---
 
+**NOVEMBAR**  
+[10.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201110.pdf)  
+[09.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201109.pdf)  
+[06.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201106.pdf)  
+[05.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201105.pdf)  
+[04.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201104.pdf)  
+[03.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201103.pdf)  
+[02.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201102.pdf)  
+
 **OKTOBAR**  
+[29.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201029.pdf)  
+[28.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201028.pdf)  
+[27.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201027.pdf)  
 [26.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201026.pdf)  
 [23.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201023.pdf)  
 [22.10.2020.](/docs/finansijski_izvestaji/dfi/2020/10/20201022.pdf)  

@@ -15,6 +15,7 @@ images = [""]
 
 [Poziv](/docs/jn/14/poziv_14_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/14/jn_14_2020.pdf) ili [.docx](/docs/jn/14/jn_14_2020.docx)  
+[Odluka o dodeli Ugovora](/docs/jn/14/odluka_o_dodeli_ugovora.pdf)  
 
 ---
 
@@ -32,7 +33,9 @@ Konkurska dokumentacija [.pdf](/docs/jn/12/jn_12_2020.pdf) ili [.docx](/docs/jn/
 
 [Poziv](/docs/jn/15/poziv_15_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/15/jn_15_2020.pdf) ili [.docx](/docs/jn/15/jn_15_2020.docx)  
-[Obaveštenje o zaključenom Ugovoru](/docs/jn/15/obavestenje_o_zakljucenom_ugovoru.pdf)
+[Obaveštenje o zaključenom Ugovoru](/docs/jn/15/obavestenje_o_zakljucenom_ugovoru.pdf)  
+[Odluka o dodeli Ugovora](/docs/jn/15/odluka_o_dodeli_ugovora.pdf)  
+[Izmena odluke o dodeli Ugovora](/docs/jn/15/izmena_odluke_o_dodeli_ugovora.pdf)  
 
 ---
 
@@ -40,7 +43,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/15/jn_15_2020.pdf) ili [.docx](/docs/jn/
 
 [Poziv](/docs/jn/13/poziv_13_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/13/jn_13_2020.pdf) ili [.docx](/docs/jn/13/jn_13_2020.docx)  
-[Odluka o dodeli Ugovora](/docs/jn/13/odluka_o_dodeli_ugovora.pdf)
+[Odluka o dodeli Ugovora](/docs/jn/13/odluka_o_dodeli_ugovora.pdf)  
+[Obaveštenje o zaključenim Ugovorima](/docs/jn/13/obavestenje_o_zakljucenom_ugovoru.pdf)  
 
 ---
 
@@ -61,7 +65,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/11/jn_11_2020.pdf) ili [.docx](/docs/jn/
 [Pitanje broj 1](/docs/jn/11/pitanje_01.pdf)  
 [Odluka o dodeli Ugovora](/docs/jn/11/odluka_o_dodeli_ugovora.pdf)  
 [Odluka o obustavi postupka](/docs/jn/11/odluka_o_obustavi_postupka.pdf)  
-[Obaveštenje o zaključenim Ugovorima](/docs/jn/11/obavestenje_o_zakljucenim_ugovorima.pdf)
+[Obaveštenje o zaključenim Ugovorima](/docs/jn/11/obavestenje_o_zakljucenim_ugovorima.pdf)  
+[Obaveštenje o obustavi postupka](/docs/jn/11/obavestenje_o_obustavi_postupka.pdf)  
 
 ---
 
@@ -69,7 +74,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/11/jn_11_2020.pdf) ili [.docx](/docs/jn/
 
 [Poziv](/docs/jn/09/poziv_09_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/09/jn_09_2020.pdf) ili [.docx](/docs/jn/09/jn_09_2020.docx)  
-[Obaveštenje o zaključenim Ugovorima](/docs/jn/09/obavestenje_o_zakljucenim_ugovorima.pdf)
+[Obaveštenje o zaključenim Ugovorima](/docs/jn/09/obavestenje_o_zakljucenim_ugovorima.pdf)  
+[Odluka o dodeli Ugovora](/docs/jn/09/odluka_o_dodeli_ugovora.pdf)  
 
 ---
 
@@ -80,7 +86,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/08/jn_08_2020.pdf) ili [.docx](/docs/jn/
 [Dodatno pojašnjenje broj 1](/docs/jn/08/dodatno_pojasnjenje_01.pdf)  
 [Odluka o dodeli Ugovora](/docs/jn/08/odluka_o_dodeli_ugovora.pdf)  
 [Odluka o obustavi postupka](/docs/jn/08/odluka_o_obustavi_postupka.pdf)  
-[Obaveštenje o zaključenom Ugovoru](/docs/jn/08/obavestenje_o_zakljucenom_ugovoru.pdf)
+[Obaveštenje o zaključenom Ugovoru](/docs/jn/08/obavestenje_o_zakljucenom_ugovoru.pdf)  
+[Obaveštenje o obustavi postupka](/docs/jn/08/obavestenje_o_obustavi_postupka.pdf)  
 
 ---
 
@@ -88,7 +95,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/08/jn_08_2020.pdf) ili [.docx](/docs/jn/
 
 [Poziv](/docs/jn/07/poziv_07_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/07/jn_07_2020.pdf) ili [.docx](/docs/jn/07/jn_07_2020.docx)  
-[Odluka o dodeli Ugovora](/docs/jn/07/odluka_o_dodeli_ugovora.pdf)
+[Odluka o dodeli Ugovora](/docs/jn/07/odluka_o_dodeli_ugovora.pdf)  
+[Obaveštenje o zaključenom Ugovoru](/docs/jn/07/obavestenje_o_zakljucenom_ugovoru.pdf)  
 
 ---
 
@@ -98,7 +106,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/07/jn_07_2020.pdf) ili [.docx](/docs/jn/
 Konkurska dokumentacija [.pdf](/docs/jn/06/jn_06_2020.pdf) ili [.docx](/docs/jn/06/jn_06_2020.docx)  
 [Odluka o dodeli Ugovora](/docs/jn/06/odluka_o_dodeli_ugovora.pdf)  
 [Odluka o obustavi postupka](/docs/jn/06/odluka_o_obustavi_postupka.pdf)  
-[Obaveštenje o obustavi postupka](/docs/jn/06/obavestenje_o_obustavi_postupka.pdf)
+[Obaveštenje o obustavi postupka](/docs/jn/06/obavestenje_o_obustavi_postupka.pdf)  
+[Obaveštenje o zaključenim Ugovorima](/docs/jn/06/obavestenje_o_zakljucenom_ugovoru.pdf)  
 
 ---
 
@@ -122,7 +131,10 @@ Konkurska dokumentacija [.pdf](/docs/jn/02/jn_02_2020.pdf) ili [.docx](/docs/jn/
 [Pitanje broj 11](/docs/jn/02/pitanje_11.pdf)  
 [Pitanje broj 12](/docs/jn/02/pitanje_12.pdf)  
 [Pitanje broj 13](/docs/jn/02/pitanje_13.pdf)  
-[Obaveštenje o obustavi postupka](/docs/jn/02/obavestenje_o_obustavi_postupka.pdf)
+[Obaveštenje o obustavi postupka](/docs/jn/02/obavestenje_o_obustavi_postupka.pdf)  
+[Odluka o dodeli Ugovora](/docs/jn/02/odluka_o_dodeli_ugovora.pdf)  
+[Odluka o obustavi postupka](/docs/jn/02/odluka_o_obustavi_postupka.pdf)  
+[Obaveštenje o zaključenim Ugovorima](/docs/jn/02/obavestenje_o_zakljucenom_ugovoru.pdf)  
 
 ---
 
@@ -133,7 +145,8 @@ Konkurska dokumentacija [.pdf](/docs/jn/05/jn_05_2020.pdf) ili [.docx](/docs/jn/
 [Pitanje broj 1](/docs/jn/05/pitanje_01.pdf)  
 [Odluka o dodeli Ugovora](/docs/jn/05/odluka_o_dodeli_ugovora.pdf)  
 [Odluka o obustavi postupka](/docs/jn/05/odluka_o_obustavi_postupka.pdf)  
-[Obaveštenje o zaključenim Ugovorima](/docs/jn/05/obavestenje_o_zakljucenim_ugovorima.pdf)
+[Obaveštenje o zaključenim Ugovorima](/docs/jn/05/obavestenje_o_zakljucenim_ugovorima.pdf)  
+[Obaveštenje o obustavi postupka](/docs/jn/05/obavestenje_o_obustavi_postupka.pdf)  
 
 ---
 

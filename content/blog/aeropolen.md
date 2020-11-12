@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Aerozagađenje"]
-date = "2020-10-14"
+date = "2020-11-02"
 description = "Praćenje stanja aeropolena u vazduhu"
 images = ["/img/aeropolen/pollen_1920_700.jpg"]
 linktitle = ""
