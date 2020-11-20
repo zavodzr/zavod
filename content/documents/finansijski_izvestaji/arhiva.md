@@ -12,6 +12,12 @@ images = [""]
 ---
 
 **NOVEMBAR**  
+[19.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201119.pdf)  
+[18.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201118.pdf)  
+[17.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201117.pdf)  
+[16.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201116.pdf)  
+[13.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201113.pdf)  
+[12.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201112.pdf)  
 [10.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201110.pdf)  
 [09.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201109.pdf)  
 [06.11.2020.](/docs/finansijski_izvestaji/dfi/2020/11/20201106.pdf)  

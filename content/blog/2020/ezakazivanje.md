@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2020-11-03"
+date = "2020-11-15"
 description = ""
 images = ["/img/main/ezakazivanje _980.jpg"]
 linktitle = ""
@@ -10,7 +10,7 @@ type = "post"
 
 +++
 
-Od danas na Portalu eUprava dostupna je nova elektronska usluga {{< target-blank title="eZakazivanje za PCR testiranje na lični zahtev" url="https://euprava.gov.rs/usluge/6096" >}}.
+Od 01.10.2020. godine na Portalu eUprava dostupna je nova elektronska usluga {{< target-blank title="eZakazivanje za PCR testiranje na lični zahtev" url="https://euprava.gov.rs/usluge/6096" >}}.
 
 **Kako da zakažete termin?**  
 Ukoliko želite da zakažete PCR testiranje na lični zahtev, potrebno je da na Portalu eUprava odaberete uslugu {{< target-blank title="eZakazivanje za PCR testiranje na lični zahtev" url="https://euprava.gov.rs/usluge/6096" >}} i izaberete opciju Pokreni uslugu. Nakon što izaberete željenu laboratoriju, prikazaće se kalendar gde je potrebno da odaberete neki od slobodnih termina.
@@ -24,6 +24,16 @@ Testiranje PCR testom na lični zahtev se plaća. Cena testiranja za građane Re
 
 Nakon što uspešno zakažete termin, sistem će generisati popunjene uplatnice. U ovom trenutku nije omogućeno elektronsko plaćanje ove usluge, te je neophodno da prilikom testiranja u zakazanom terminu ponesete jedan primerak overene uplatnice kao dokaz o uplati.
 
-Važno: Da biste zakazali termin nije potrebno da budete registrovan korisnik Portala eUprave.
+**Važno**: Da biste zakazali termin nije potrebno da budete registrovan korisnik Portala eUprave.
 
-**Takođe, građanima je dostupno i da putem Nacionalnog kontakt centra Ministarstva zdravlja na broju 011/362-0000 zakažu PCR testiranje na lični zahtev svakim radnim danom od 08 do 20 časova.**
+**Takođe, građanima je dostupno i da putem Nacionalnog kontakt centra Ministarstva zdravlja na broju 011/362-0000 zakažu PCR testiranje na lični zahtev svakim radnim danom od 08 do 20 časova.**  
+
+Pored testiranja **RT-PCR metodom** u Zavodu za javno zdravlje Zrenjanin možete uraditi i serološko testiranje na SARS-CoV2 **[brzim imunohromatografskim testom](/blog/2020/covid19-testiranje/)**.  
+
+<h4 style="color: red;">Sve uplate se vrše isključivo na račun Republičkog fonda za zdravstveno osiguranje.</h4>
+
+**Sve informacije u vezi uplata možete pronaći na sajtu {{< target-blank title="Republičkog fonda za zdravstveno osiguranje" url="https://www.rfzo.rs/index.php?option=com_content&view=article&layout=edit&id=1057" >}}**  
+
+<h4 style="color: red;">Zbog ogromnog broja analiza i preopterećenosti aparata i zaposlenih, Zavod za javno zdravlje Zrenjanin ne snosi odgovornost ukoliko dođe do kašnjenja u izdavanju rezultata izazvanih kvarom aparata ili nekim drugim nepredviđenim okolnostima koje mogu izazvati zastoj u vršenju analiza.</h4>
+<h3 style="color: red;">Važno</h3>
+<h3>Vreme dobijanja rezulatata je <span style="color: red;">24-48 sati</span> od uzimanja brisa.</h3>
