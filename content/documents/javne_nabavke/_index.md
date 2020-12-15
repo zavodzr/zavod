@@ -11,11 +11,19 @@ images = [""]
 
 ---
 
+#### 17/2020 - Nabavka laboratorijskog materijala – PCR plastika
+
+[Poziv](/docs/jn/17/poziv_17_2020.pdf)  
+Konkurska dokumentacija [.pdf](/docs/jn/17/jn_17_2020.pdf) ili [.docx](/docs/jn/17/jn_17_2020.docx)  
+
+---
+
 #### 14/2020 - Nabavka goriva
 
 [Poziv](/docs/jn/14/poziv_14_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/14/jn_14_2020.pdf) ili [.docx](/docs/jn/14/jn_14_2020.docx)  
 [Odluka o dodeli Ugovora](/docs/jn/14/odluka_o_dodeli_ugovora.pdf)  
+[Obaveštenje o zaključenim Ugovorima](/docs/jn/14/obavestenje_o_zakljucenom_ugovoru.pdf)  
 
 ---
 

@@ -7,6 +7,8 @@ images = [""]
 
 +++
 
+15.12.2020. - [**Javni oglas za zasnivanje radnog odnosa na neodređeno vreme - Hemijski tehničar (1 izvršilac)**](/docs/oglasi/oglas_hemijski_tehnicar.pdf)  
+
 21.10.2020. - [**Oglas o otuđenju pokretne stvari - motornog vozila u postupku javnog nadmetanja**](/docs/oglasi/oglas_auto.pdf)  
 _Prijava za učešće u postupku javnog nadmetanja u [**.docx**](/docs/oglasi/prijava.docx) ili [**.pdf**](/docs/oglasi/prijava.pdf) formatu._
 

@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2020-11-14"
+date = "2020-12-15"
 description = "Testiranje na prisustvo SARS-CoV2 brzim imunohromatografskim testom"
 images = ["/img/main/koronavirus.png"]
 linktitle = ""
