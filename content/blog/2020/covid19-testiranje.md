@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2020-12-15"
+date = "2020-11-15"
 description = "Testiranje na prisustvo SARS-CoV2 brzim imunohromatografskim testom"
 images = ["/img/main/koronavirus.png"]
 linktitle = ""
@@ -10,7 +10,7 @@ type = "post"
 
 +++
 
-U Zavodu za javno zdravlje Zrenjanin može se uraditi testiranje na prisustvo SARS-CoV2 virusa **[RT-PCR metodom](/blog/2020/ezakazivanje/)** na lični zahtev građana kao i **serološko testiranje** na SARS-CoV2 **brzim imunohromatografskim testom** na lični zahtev građana.  
+U Zavodu za javno zdravlje Zrenjanin pored **[PCR testiranja](/blog/2020/pcr-testiranje-na-licni-zahtev/)** na lični zahtev možete uraditi i **serološko testiranje** na SARS-CoV2 **brzim imunohromatografskim testom**.  
 
 Serološko testiranje brzim imunohromatografskim testom se ne zakazuje. Potrebno je da uplatite iznos iz instrukcije sa sajta RFZO-a i da u periodu od 10.00 do 11.30 sa uplatnicom dođete u Zavod.  
 <h4 style="color: red;">Sve uplate se vrše isključivo na račun Republičkog fonda za zdravstveno osiguranje.</h4>
