@@ -15,6 +15,7 @@ images = [""]
 
 [Poziv](/docs/jn/17/poziv_17_2020.pdf)  
 Konkurska dokumentacija [.pdf](/docs/jn/17/jn_17_2020.pdf) ili [.docx](/docs/jn/17/jn_17_2020.docx)  
+[Obaveštenje o zaključenom Ugovoru](/docs/jn/17/obavestenje_o_zakljucenom_ugovoru.pdf)  
 
 ---
 

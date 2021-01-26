@@ -10,7 +10,8 @@ images = [""]
 #### Dnevni finansijski izveštaji
 
 {{< target-blank title="Dnevni finansijski izveštaj" url="/docs/finansijski_izvestaji/dfi.pdf" >}}  
-[Arhiva](/documents/finansijski_izvestaji/arhiva)
+[2021. godina](/documents/finansijski_izvestaji/2021)  
+[2020. godina](/documents/finansijski_izvestaji/2020)
 
 #### Završni računi
 
