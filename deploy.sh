@@ -12,7 +12,7 @@ hugo -t hugo-future-imperfect-slim # if using a theme, replace with `hugo -t <YO
 cd public
 
 # Add changes to git.
-git add .
+git add -A
 
 # Commit changes.
 msg="rebuilding site $(date)"
