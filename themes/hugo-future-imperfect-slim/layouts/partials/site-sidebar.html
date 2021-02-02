@@ -1,0 +1,154 @@
+<section id="site-sidebar">
+
+  <section id="categories">
+    <img src="/img/main/grb.png" />
+  </section>
+
+  <section id="categories">
+    <a href="/blog/2020/testiranje-na-licni-zahtev/"><img src="/img/main/corona_virus.png" /></a>
+    
+  </section>
+
+  <!-- CENTRI -->
+  <section id="categories">
+    <header>
+      <h1>Zavod</h1>
+    </header>
+    <div>
+      <a href="/centar/socijalna/">Centar za promociju zdravlja, analizu, planiranje i organizaciju zdravstvene zaštite,
+        informatiku i
+        biostatistiku u zdravstvu</a>
+      <hr>
+      <a href="/centar/mikrobiologija/">Centar za mikrobiologiju</a>
+      <hr>
+      <a href="/centar/higijena/">Centar za higijenu i humanu ekologiju</a>
+      <hr>
+      <a href="/centar/epidemiologija/">Centar za kontrolu i prevenciju bolesti</a>
+      <hr>
+      <a href="/centar/opsta/">Služba za pravne, ekonomsko-finansijske, tehničke i druge slične poslove</a>
+    </div>
+  </section>
+
+  <!-- SAVETOVALISTA -->
+  <section id="categories">
+    <header>
+      <h1>SAVETOVALIŠTA</h1>
+    </header>
+    <div>
+      <a href="/savetovalista/pusenje/">Savetovalište za odvikavanje od pušenja</a>
+      <hr>
+      <a href="/savetovalista/ishrana/">Savetovalište za pravilnu ishranu</a>
+      <hr>
+      <a href="/savetovalista/dpst/">Savetovalište za DPST</a>
+    </div>
+  </section>
+
+  <!-- DOKUMENTI -->
+  <section id="categories">
+    <header>
+      <h1>DOKUMENTI</h1>
+    </header>
+    <div>
+      <a href="/documents/analize">Analize</a>
+      <hr>
+      <a href="/documents/finansijski_izvestaji">Finansijski izveštaji</a>
+      <hr>
+      <a href="/docs/qms/pk.pdf">Politika kvaliteta</a>
+      <hr>
+      <a href="/docs/qms/01-119.pdf">Obim akreditacija</a>
+      <hr>
+      <a href="/docs/qms/ats_sertifikat.pdf">ATS sertifikat</a>
+      <hr>
+      <a href="/documents/opsti-akti/">Opšti akti</a>
+      <hr>
+      <a href="/documents/oglasi/">Oglasi</a>
+    </div>
+  </section>
+
+  <!-- RECENT POSTS -->
+  {{ if gt .Site.Params.sidebar.postAmount 0 }}
+  <section id="recent-posts">
+    <header>
+      <h1>{{ i18n "recent_posts" }}</h1>
+    </header>
+    {{ range first (.Site.Params.sidebar.postAmount | default 5) (where .Site.Pages  "Type" "post") }}
+    <article class="mini-post">
+      <section>
+        {{ .Render "featured" }}
+      </section>
+      <header>
+        <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+        <time class="published" datetime="">{{ default (i18n "date_format") | .Date.Format }}</time>
+      </header>
+    </article>
+    {{ end }}
+    {{ if ge (len (where .Site.Pages "Type" "post")) (.Site.Params.sidebar.postAmount | default 5) }}
+    <a href="{{ with .Site.Params.viewMorePostsLink }}{{ . | relLangURL }}{{ else }}{{ "post" | relLangURL }}{{ end }}"
+      class="button">{{ i18n "see_more" }}</a>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  <!-- KATEGORIJE -->
+  {{ if .Site.Params.sidebar.categories }}
+  {{ if ne ($.Scratch.Get "showCategories") false }}
+  <section id="categories">
+    <header>
+      <h1><a href="{{ "categories" | relLangURL }}">{{ i18n "categories" }}</a></h1>
+    </header>
+    <ul>
+      {{ if .Site.Params.sidebar.categoriesByCount }}
+      {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.ByCount }}
+      {{ else }}
+      {{ $.Scratch.Set "categories" .Site.Taxonomies.categories.Alphabetical }}
+      {{ end }}
+      {{ range $key, $value := $.Scratch.Get "categories" }}
+      <li>
+        {{ if ne $value.Name "" }}
+        <a href="{{ printf "%s/%s" "categories" $value.Name | urlize | relLangURL }}/">{{ $value.Name }}<span
+            class="count">{{ $value.Count }}</span></a>
+        {{ else }}
+        {{ i18n "uncategorized" }}<span class="count">{{ $value.Count }}</span>
+        {{ end }}
+        {{ end }}
+      </li>
+    </ul>
+  </section>
+  {{ end }}
+  {{ end }}
+
+  <!-- ABOUT -->
+  {{ if .Site.Params.sidebar.about }}
+  <section id="mini-bio">
+    <header>
+      <h1>{{ i18n "about" }}</h1>
+    </header>
+    <p>{{ .Site.Params.sidebar.about | safeHTML }}</p>
+    <footer>
+      <a href="{{ "onama" | relLangURL }}" class="button">{{ i18n "learn_more" }}</a>
+    </footer>
+  </section>
+  {{ end }}
+
+
+  <!-- RADNO VREME -->
+  <section id="categories">
+    <header>
+      <h1>RADNO VREME</h1>
+    </header>
+    <div>
+      <table width="100%">
+        <tbody>
+          <tr>
+            <td>Ponedeljak - Petak</td>
+            <td>7.00 - 19.00</td>
+          </tr>
+          <tr>
+            <td>Subota - Nedelja</td>
+            <td>Zatvoreno</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+</section>
