@@ -1,74 +1,74 @@
 [date_format]
-  other = "02.01.2006."
+other = "02.01.2006."
 [postreadingtime]
-  one = "Vreme čitanja 1 minut"
-  other = "Vreme čitanja {{ .Count }} minuta"
+one = "Vreme čitanja 1 minut"
+other = "Vreme čitanja {{ .Count }} minuta"
 [recent_posts]
-  other = "Tekstovi"
+other = "Tekstovi"
 [see_more]
-  other = "Vidi još"
+other = "Vidi još"
 [read_more]
-  other = "Pročitaj više"
+other = "Pročitaj više"
 [categories]
-  other = "Kategorije"
+other = "Kategorije"
 [category]
-  other = "Kategorija"
+other = "Kategorija"
 [tags]
-  other = "Tags"
+other = "Tags"
 [tag]
-  other = "Tag"
+other = "Tag"
 [uncategorized]
-  other = "Uncategorized"
+other = "Uncategorized"
 [share_post]
-  other = "Podeli tekst"
+other = "Podeli tekst"
 [about]
-  other = "O nama"
+other = "O nama"
 [learn_more]
-  other = "Pročitaj više"
+other = "Pročitaj više"
 [repliestext]
-  one = "Odgovorićemo Vam u najkraćem mogućem roku."
-  other = "Replies typically within {{ .Count }} hours."
+one = "Odgovorićemo Vam u najkraćem mogućem roku."
+other = "Replies typically within {{ .Count }} hours."
 [submit]
-  other = "Pošalji"
+other = "Pošalji"
 [404_pagenotfound]
-  other = "Page Not Found"
+other = "Stranica nije pronađena"
 [404_sorry]
-  other = "Sorry, but the page you were trying to view does not exist."
+other = "Oprostite zbog neprijatnosti, ali stranica koju tražite ne postoji."
 [404_goback]
-  other = "Go Back"
+other = "Go Back"
 [blog]
-  other = "Blog"
+other = "Blog"
 [contact]
-  other = "Kontakt"
+other = "Kontakt"
 [next_page]
-  other = "Sledeća strana"
+other = "Sledeća strana"
 [previous_page]
-  other = "Prethodna strana"
+other = "Prethodna strana"
 [attribution]
-  other = "Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='{{ .Site.Hugo.Version }}' target='_blank' rel='noopener'>Hugo</a>"
+other = "Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='{{ .Site.Hugo.Version }}' target='_blank' rel='noopener'>Hugo</a>"
 [comments]
-  other = "Comments"
+other = "Comments"
 [say_sth]
-  other = "Say something"
+other = "Say something"
 [name]
-  other = "Vaše ime (Obavezno polje)"
+other = "Vaše ime (Obavezno polje)"
 [email]
-  other = "Vaša email adresa (Obavezno polje za Gravatar)"
+other = "Vaša email adresa (Obavezno polje za Gravatar)"
 [website]
-  other = "Vaš website"
+other = "Vaš website"
 [body]
-  other = "Your message. Feel free to use Markdown (Google 'Markdown Cheat Sheet')."
+other = "Your message. Feel free to use Markdown (Google 'Markdown Cheat Sheet')."
 [no_comment]
-  other = "Nothing yet."
+other = "Nothing yet."
 [reply]
-  other = "Reply"
+other = "Reply"
 [btn_reset]
-  other = "Reset"
+other = "Reset"
 [btn_submitted]
-  other = "Submitted"
+other = "Submitted"
 [btn_sumbit]
-  other = "Submit"
+other = "Submit"
 [error_msg]
-  other = "Sorry, there was an error with your submission.  Please make sure all required fields have been completed and try again."
+other = "Sorry, there was an error with your submission.  Please make sure all required fields have been completed and try again."
 [success_msg]
-  other = "Thanks for your comment! It will be shown on the site once it has been approved."
+other = "Thanks for your comment! It will be shown on the site once it has been approved."
