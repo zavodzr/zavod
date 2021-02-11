@@ -24,6 +24,7 @@ images = [""]
 
 #### Dvanaestomesečni finansijski izveštaji
 
+{{< target-blank title="Dvanaestomesečni izveštaj za 2020. godinu" url="/docs/finansijski_izvestaji/dvanaestomesecni_2020.pdf" >}}  
 {{< target-blank title="Dvanaestomesečni izveštaj za 2019. godinu" url="/docs/finansijski_izvestaji/dvanaestomesecni_2019.pdf" >}}  
 {{< target-blank title="Dvanaestomesečni izveštaj za 2018. godinu" url="/docs/finansijski_izvestaji/dvanaestomesecni_2018.pdf" >}}  
 
@@ -48,6 +49,7 @@ images = [""]
 #### Finansijski planovi
 
 **2020. godina**  
+{{< target-blank title="III rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_III.pdf" >}}  
 {{< target-blank title="II rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_II.pdf" >}}  
 {{< target-blank title="I rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_I.pdf" >}}  
 
