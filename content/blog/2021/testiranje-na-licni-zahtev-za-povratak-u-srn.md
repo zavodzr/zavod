@@ -1,8 +1,8 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2021-01-02"
-description = "Besplatno testiranje za državljane RS koji putuju u SR Nemačku"
+date = "2021-02-12"
+description = "Besplatno testiranje za državljane RS koji se vraćaju u SR Nemačku"
 images = ["/img/main/rt-pcr-ag-srn.png"]
 linktitle = ""
 title = "Bestplatni RT-PCR ili antigenski test"
@@ -10,7 +10,12 @@ type = "post"
 
 +++
 
-Krizni štab za suzbijanje zarazne bolesti COVID-19 na sednici održanoj 28.12.2020. godine doneo je odluku da se od plaćanja naknade za antigensko ili RT-PCR testiranje na prisustvo SARS-Cov-2 virusa na lični zahtev **izuzmu** državljani Republike Srbije, kao i njihovi bračni drugovi, roditelji ili deca ukoliko nisu državljani Republike Srbije, a kojima je potrena potvrda o prisustvu visura radi ostvarivanja putovanja u Saveznu Republiku Nemačku.
+Krizni štab za suzbijanje zarazne bolesti COVID-19 na sednici održanoj 28.12.2020. godine doneo je odluku da se od plaćanja naknade za antigensko ili RT-PCR testiranje na prisustvo SARS-Cov-2 virusa na lični zahtev izuzmu državljani Republike Srbije, kao i njihovi bračni drugovi, roditelji ili deca ukoliko nisu državljani Republike Srbije **koji imaju stalni ili privremeni boravak u SR Nemačkoj**.  
+
+<h4 style="color: red">
+  Napomena
+</h4>
+<strong>Obavezno poneti i dokaz o regulisanom stalnom ili privremenom boravku u SR Nemačkoj (pasoš ili ličnu kartu SR Nemačke, potvrdu o privremenom boravku, potvrdu o zaposlenju u SR Nemačkoj).</strong>
 
 <h2 style="color: #2ebaae">RT-PCR testiranje</h2>
 
@@ -27,3 +32,5 @@ Testiranje se radi svaki dan (od ponedeljka do nedelje):
   <li>Antigenski testovi od 8.30 do 9.00</li>
 </ul>
 </h4>
+
+
