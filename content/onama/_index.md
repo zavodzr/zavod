@@ -59,7 +59,3 @@ Usložnjavanje aktivnosti i tehnološke inovacije službe, sa jedne strane, a dr
 Samostalna pozicija kao da Zavodu za zdravstvenu zaštitu daje krila. Dolazi do ekspanzivnog i progresivnog razvoja ustanove. Početkom devedesetih godina, međutim, okruženje u kojem deluje Zavod počinje da biva izuzetno nepovoljno, kriza za krizom potresa temelje prethodne države, praktično do njenog urušavanja ratom.
 
 Objedinjavanjem državnog sistema Republike Srbije i uspostavljanjem nove mreže zdravstvenih ustanova, osnivačka prava preuzela je Vlada Republike Srbije. Zavod je sada samostalna zdravstvena ustanova koja 01.09.1993. godine dobija naziv **Zavod za zaštitu zdravlja Zrenjanin**.
-
-
-
-

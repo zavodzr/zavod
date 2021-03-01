@@ -11,6 +11,7 @@ images = [""]
 
 ### Analize zdravstvenog stanja stanovništva Srednjebanatskog okruga
 
+[Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2019. godini](/docs/analize/AZSS_SBO/AZSS_2019.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2018. godini](/docs/analize/AZSS_SBO/AZSS_2018.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2017. godini](/docs/analize/AZSS_SBO/AZSS_2017.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2016. godini](/docs/analize/AZSS_SBO/AZSS_2016.pdf)  

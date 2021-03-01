@@ -48,6 +48,9 @@ images = [""]
 
 #### Finansijski planovi
 
+**2021. godina**  
+{{< target-blank title="Finansijski plan za 2021. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2021.pdf" >}}  
+
 **2020. godina**  
 {{< target-blank title="III rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_III.pdf" >}}  
 {{< target-blank title="II rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_II.pdf" >}}  
