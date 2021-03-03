@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2021-02-12"
+date = "2021-03-03"
 description = "Besplatno testiranje za državljane RS koji se vraćaju u SR Nemačku"
 images = ["/img/main/rt-pcr-ag-srn.png"]
 linktitle = ""
@@ -15,7 +15,7 @@ Krizni štab za suzbijanje zarazne bolesti COVID-19 na sednici održanoj 28.12.2
 <h4 style="color: red">
   Napomena
 </h4>
-<strong>Obavezno poneti i dokaz o regulisanom stalnom ili privremenom boravku u SR Nemačkoj (pasoš ili ličnu kartu SR Nemačke, potvrdu o privremenom boravku, potvrdu o zaposlenju u SR Nemačkoj).</strong>
+<strong>Obavezno poneti i dokaz o regulisanom stalnom ili privremenom boravku u SR Nemačkoj (Meldebescheinigung ili Anmeldebescheinigung).</strong>
 
 <h2 style="color: #2ebaae">RT-PCR testiranje</h2>
 
