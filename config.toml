@@ -125,6 +125,13 @@ identifier = "usluge"
 name = "Usluge"
 pre = "<i class='fas fa-user-md'></i>"
 url = "/documents/usluge/"
+weight = 3
+
+[[menu.main]]
+identifier = "kvalitet-vazduha"
+name = "Kvalitet vazduha"
+pre = "<i class='fas fa-wind'></i>"
+url = "/documents/kvalitet-vazduha/"
 weight = 5
 
 [[menu.main]]
