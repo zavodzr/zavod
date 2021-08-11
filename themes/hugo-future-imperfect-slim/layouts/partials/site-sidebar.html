@@ -6,11 +6,43 @@
 
   <section id="categories">
     <a href="/blog/2020/testiranje-na-licni-zahtev/"><img src="/img/main/corona_virus.png" /></a>
-    
+
   </section>
+
   <section id="categories">
-    <a href="/blog/2021/testiranje-na-licni-zahtev-za-povratak-u-srn/"><img src="/img/main/rt-pcr-ag-srn-povratak.png" /></a>
-    
+    <div>
+      <header>
+        <a href="/blog/2020/testiranje-na-licni-zahtev/">
+          <h1>COVID-19 testiranje</h1>
+        </a>
+      </header>
+      <strong>RT-PCR testiranje</strong>
+      <div>Ponedeljak-Subota od 7.30 do 8.30</div>
+
+      <strong>Brzi Ag test</strong>
+      <div>Ponedeljak-Subota od 8.30 do 9.00</div>
+
+      <strong>Brzi serološki test (dokazivanje antitela)</strong>
+      <div>Ponedeljak-Petak od 10.00 do 11.30</div>
+    </div>
+  </section>
+
+  <section id="categories">
+    <div>
+      <header>
+        <h1>Sanitarni pregledi</h1>
+      </header>
+      <strong>Pregledi i prijem materijala</strong>
+      <div>Ponedeljak-Petak od 7.00 do 11.00</div>
+      <br />
+      <strong>Izdavanje sanitarnih knjižica</strong>
+      <div>Ponedeljak-Petak od 12.00 do 14.00</div>
+      <br />
+      <strong>Za pregled je potrebno:</strong><br />
+      1. Sanitarna knjižica<br />
+      2. Fotografija (obavezna)<br />
+      3. Materijal za pregled (stolica u zavisnosti od radnog mesta)<br />
+    </div>
   </section>
 
   <!-- CENTRI -->
@@ -75,7 +107,7 @@
     <header>
       <h1>{{ i18n "recent_posts" }}</h1>
     </header>
-    {{ range first (.Site.Params.sidebar.postAmount | default 5) (where .Site.Pages  "Type" "post") }}
+    {{ range first (.Site.Params.sidebar.postAmount | default 5) (where .Site.Pages "Type" "post") }}
     <article class="mini-post">
       <section>
         {{ .Render "featured" }}
@@ -87,7 +119,7 @@
     </article>
     {{ end }}
     {{ if ge (len (where .Site.Pages "Type" "post")) (.Site.Params.sidebar.postAmount | default 5) }}
-    <a href="{{ with .Site.Params.viewMorePostsLink }}{{ . | relLangURL }}{{ else }}{{ "post" | relLangURL }}{{ end }}"
+    <a href="{{ with .Site.Params.viewMorePostsLink }}{{ . | relLangURL }}{{ else }}{{ " post" | relLangURL }}{{ end }}"
       class="button">{{ i18n "see_more" }}</a>
     {{ end }}
   </section>
@@ -98,7 +130,7 @@
   {{ if ne ($.Scratch.Get "showCategories") false }}
   <section id="categories">
     <header>
-      <h1><a href="{{ "categories" | relLangURL }}">{{ i18n "categories" }}</a></h1>
+      <h1><a href="{{ " categories" | relLangURL }}">{{ i18n "categories" }}</a></h1>
     </header>
     <ul>
       {{ if .Site.Params.sidebar.categoriesByCount }}
@@ -109,7 +141,7 @@
       {{ range $key, $value := $.Scratch.Get "categories" }}
       <li>
         {{ if ne $value.Name "" }}
-        <a href="{{ printf "%s/%s" "categories" $value.Name | urlize | relLangURL }}/">{{ $value.Name }}<span
+        <a href="{{ printf " %s/%s" "categories" $value.Name | urlize | relLangURL }}/">{{ $value.Name }}<span
             class="count">{{ $value.Count }}</span></a>
         {{ else }}
         {{ i18n "uncategorized" }}<span class="count">{{ $value.Count }}</span>
@@ -129,7 +161,7 @@
     </header>
     <p>{{ .Site.Params.sidebar.about | safeHTML }}</p>
     <footer>
-      <a href="{{ "onama" | relLangURL }}" class="button">{{ i18n "learn_more" }}</a>
+      <a href="{{ " onama" | relLangURL }}" class="button">{{ i18n "learn_more" }}</a>
     </footer>
   </section>
   {{ end }}

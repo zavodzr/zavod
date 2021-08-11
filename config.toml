@@ -345,38 +345,38 @@ stackoverflow = "" # User Number
 behance = ""
 deviantart = ""
 dribbble = ""
-flickr = "example"
+flickr = "#"
 # Publishing Communities
 medium = ""
 wordpress = ""
 # Professional/Business Oriented Communities
 foursquare = ""
-linkedin = "example"
-linkedin_company = "examplebusiness"
+linkedin = "#"
+linkedin_company = "#"
 slideshare = ""
 xing = ""
 # Social Networks
-facebook = "example" 
+facebook = "#" 
 googleplus = "" 
 quora = "" 
-reddit = "example" 
+reddit = "#" 
 vimeo = "" 
 whatsapp = "" # WhatsApp Number
 youtube = "" 
 # WeChat and QQ need testing.
 googlescholar = "" 
-instagram = "example" 
-keybase = "example" 
-mastodon = "example.com/@example" 
+instagram = "#" 
+keybase = "" 
+mastodon = "" 
 orcid = "" 
-pinterest = "example" 
+pinterest = "#" 
 qq = "" # User ID Number
-researchgate = "example" 
-skype = "" 
+researchgate = "" 
+skype = "#" 
 snapchat = "" 
-telegram = "example" 
+telegram = "" 
 tumblr = "" 
-twitter = "example" 
+twitter = "#" 
 vine = "" 
 wechat = "" 
 # Email
@@ -387,6 +387,6 @@ email = "informatika@zastitazdravlja.rs"
 unsafe = true
 
 [sitemap]
-changefreq = "monthly"
+changefreq = "daily"
 filename = "sitemap.xml"
 priority = 0.5

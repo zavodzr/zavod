@@ -15,6 +15,7 @@ images = [""]
 
 #### Završni računi
 
+{{< target-blank title="Završni račun za 2020. godinu" url="/docs/finansijski_izvestaji/zavrsni_2020.pdf" >}}  
 {{< target-blank title="Završni račun za 2019. godinu" url="/docs/finansijski_izvestaji/zavrsni_2019.pdf" >}}  
 {{< target-blank title="Završni račun za 2018. godinu" url="/docs/finansijski_izvestaji/zavrsni_2018.pdf" >}}  
 {{< target-blank title="Završni račun za 2017. godinu" url="/docs/finansijski_izvestaji/zavrsni_2017.pdf" >}}  
@@ -42,6 +43,7 @@ images = [""]
 
 #### Tromesečni finansijski izveštaji
 
+{{< target-blank title="Trtomesečni izveštaj za 2021. godinu" url="/docs/finansijski_izvestaji/tromesecni_2021.pdf" >}}  
 {{< target-blank title="Trtomesečni izveštaj za 2020. godinu" url="/docs/finansijski_izvestaji/tromesecni_2020.pdf" >}}  
 {{< target-blank title="Trtomesečni izveštaj za 2019. godinu" url="/docs/finansijski_izvestaji/tromesecni_2019.pdf" >}}  
 {{< target-blank title="Trtomesečni izveštaj za 2018. godinu" url="/docs/finansijski_izvestaji/tromesecni_2018.pdf" >}}
@@ -50,6 +52,7 @@ images = [""]
 
 **2021. godina**  
 {{< target-blank title="Finansijski plan za 2021. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2021.pdf" >}}  
+{{< target-blank title="I izmena Finansijskog plana za 2021. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2021_I_izmena.pdf" >}}  
 
 **2020. godina**  
 {{< target-blank title="III rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_III.pdf" >}}  
