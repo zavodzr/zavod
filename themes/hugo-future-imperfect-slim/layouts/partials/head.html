@@ -7,7 +7,7 @@
   {{ template "_internal/google_news.html" . }}
 
   {{ if .Site.Params.highlightjs }}<link rel="stylesheet"
-      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/{{ .Site.Params.highlightjsTheme | default "default" }}.min.css">{{ end }}
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/{{ .Site.Params.highlightjsTheme | default "default" }}.min.css">{{ end }}
   {{ range .Site.Params.cssFiles }}
     {{ if eq . "default" }}
       <link rel="stylesheet" href="{{ "css/normalize.css" | relURL}}">

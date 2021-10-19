@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2020-12-28"
+date = "2021-10-19"
 description = "Testiranje na lični zahtev"
 images = ["/img/main/corona_virus.png"]
 linktitle = ""
@@ -22,7 +22,7 @@ Testiranje PCR testom na lični zahtev se plaća. Sve informacije u vezi uplata 
 
 Da biste zakazali termin **nije** potrebno da budete registrovan korisnik Portala eUprave.
 
-Takođe, građanima je dostupno i da putem Nacionalnog kontakt centra Ministarstva zdravlja na broju 011/362-0000 zakažu PCR testiranje na lični zahtev svakim radnim danom od 08 do 20 časova.  
+Takođe, građanima je dostupno i da putem Nacionalnog kontakt centra Ministarstva zdravlja na broju 011/362-0000 zakažu PCR testiranje na lični zahtev svakim radnim danom od 08 do 20 časova.
 
 <strong>Testiranje RT-PCR metodom se radi svaki dan osim nedelje (ponedeljak-subota) od 7.30 do 8.30</strong>
 
@@ -40,7 +40,7 @@ Testiranje brzim antigenskim testom na lični zahtev se plaća. Sve informacije 
 
 <h2 style="color: #2ebaae">Dokazivanje prisustva antitela brzim serološkim testom</h2>
 
-Serološko testiranje brzim imunohromatografskim testom se ne zakazuje. Potrebno je da uplatite iznos iz instrukcije sa sajta RFZO-a i da u periodu od 10.00 do 11.30 sa uplatnicom i popunjenim **{{< target-blank title="Zahtevom za testiranje" url="/docs/covid19/zahtev_imunohromatografski.pdf" >}}** dođete u Zavod.  
+Serološko testiranje brzim imunohromatografskim testom se ne zakazuje. Potrebno je da uplatite iznos iz instrukcije sa sajta RFZO-a i da u periodu od 10.00 do 11.30 sa uplatnicom i popunjenim **{{< target-blank title="Zahtevom za testiranje" url="/docs/covid19/zahtev_imunohromatografski.pdf" >}}** dođete u Zavod.
 
 Zavod za javno zdravlje Zrenjanin trenutno radi samo kvalitativni test koji određuje prisustvo antitela virusa, **ne i količinu antitela**.
 
@@ -51,4 +51,3 @@ Testiranje brzim imunohromatografskim testom na lični zahtev se plaća. Sve inf
 <h4 style="color: red;">Sve uplate se vrše isključivo na račun Republičkog fonda za zdravstveno osiguranje.</h4>
 
 <h4 style="color: red;">Zbog ogromnog broja analiza i preopterećenosti aparata i zaposlenih, Zavod za javno zdravlje Zrenjanin ne snosi odgovornost ukoliko dođe do kašnjenja u izdavanju rezultata izazvanih kvarom aparata ili nekim drugim nepredviđenim okolnostima koje mogu izazvati zastoj u vršenju analiza.</h4>
-

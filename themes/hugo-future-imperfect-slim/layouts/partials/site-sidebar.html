@@ -87,6 +87,8 @@
     <div>
       <a href="/documents/analize">Analize</a>
       <hr>
+      <a href="/documents/javne_nabavke">Javne nabavke</a>
+      <hr>
       <a href="/documents/finansijski_izvestaji">Finansijski izveštaji</a>
       <hr>
       <a href="/docs/qms/pk.pdf">Politika kvaliteta</a>
@@ -126,7 +128,7 @@
   {{ end }}
 
   <!-- KATEGORIJE -->
-  {{ if .Site.Params.sidebar.categories }}
+  <!-- {{ if .Site.Params.sidebar.categories }}
   {{ if ne ($.Scratch.Get "showCategories") false }}
   <section id="categories">
     <header>
@@ -151,10 +153,10 @@
     </ul>
   </section>
   {{ end }}
-  {{ end }}
+  {{ end }} -->
 
   <!-- ABOUT -->
-  {{ if .Site.Params.sidebar.about }}
+  <!-- {{ if .Site.Params.sidebar.about }}
   <section id="mini-bio">
     <header>
       <h1>{{ i18n "about" }}</h1>
@@ -164,7 +166,7 @@
       <a href="{{ " onama" | relLangURL }}" class="button">{{ i18n "learn_more" }}</a>
     </footer>
   </section>
-  {{ end }}
+  {{ end }} -->
 
 
   <!-- RADNO VREME -->

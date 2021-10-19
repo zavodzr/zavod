@@ -1,8 +1,8 @@
 +++
 author = "admin"
 categories = ["Kupališta"]
-date = "2020-08-28"
-description = "Rezultati monitoringa površinskih voda na kupalištima tokom 2020. godine"
+date = "2021-08-13"
+description = "Rezultati monitoringa površinskih voda na kupalištima tokom 2021. godine"
 images = ["/img/main/Grad_Zrenjanin_750.jpg"]
 linktitle = ""
 title = "Kvalitet vode na kupalištima"
@@ -43,15 +43,15 @@ type = "post"
         <td>03.08.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
         <td>05.08.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
         <td>10.08.2021.</td>
@@ -100,74 +100,60 @@ type = "post"
     </thead>
     <tbody>
       <tr>
-        <td>02.07.2020.</td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #43e326;"></td>
-        <td style="background-color: #43e326;"></td>
-      </tr>
-      <tr>
-        <td>07.07.2020.</td>
+        <td>01.07.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>09.07.2020.</td>
+        <td>06.07.2021.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>08.07.2021.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>13.07.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>14.07.2020.</td>
+        <td>15.07.2021.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>20.07.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>16.07.2020.</td>
+        <td>22.07.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>17.07.2020.</td>
+        <td>28.07.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
-      </tr>
-      <tr>
-        <td>21.07.2020.</td>
-        <td style="background-color: #43e326;"></td>
-        <td style="background-color: #43e326;"></td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
-      </tr>
-      <tr>
-        <td>23.07.2020.</td>
-        <td style="background-color: #43e326;"></td>
-        <td style="background-color: #43e326;"></td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #43e326;"></td>
-      </tr>
-      <tr>
-        <td>28.07.2020.</td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
-      </tr>
-      <tr>
-        <td>30.07.2020.</td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
-        <td style="background-color: #fff403;"></td>
       </tr>
     </tbody>
 </table>
@@ -202,42 +188,63 @@ type = "post"
     </thead>
     <tbody>
       <tr>
-        <td>04.06.2020.</td>
+        <td>01.06.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>09.06.2020.</td>
+        <td>03.06.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>12.06.2020.</td>
+        <td>08.06.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>16.06.2020.</td>
+        <td>10.06.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>23.06.2020.</td>
+        <td>15.06.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>26.06.2020.</td>
+        <td>17.06.2021.</td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>22.06.2021.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>24.06.2021.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #43e326;"></td>
+      </tr>
+      <tr>
+        <td>29.06.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
@@ -276,25 +283,32 @@ type = "post"
     </thead>
     <tbody>
       <tr>
-        <td>19.05.2020.</td>
+        <td>18.05.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>22.05.2020.</td>
+        <td>20.05.2021.</td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
         <td style="background-color: #43e326;"></td>
       </tr>
       <tr>
-        <td>26.05.2020.</td>
+        <td>25.05.2021.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #ffaa01;"></td>
         <td style="background-color: #43e326;"></td>
+        <td style="background-color: #fff403;"></td>
+      </tr>
+      <tr>
+        <td>27.05.2021.</td>
+        <td style="background-color: #fff403;"></td>
+        <td style="background-color: #ffaa01;"></td>
         <td style="background-color: #43e326;"></td>
-        <td style="background-color: #43e326;"></td>
-        <td style="background-color: #43e326;"></td>
+        <td style="background-color: #fff403;"></td>
       </tr>
     </tbody>
 </table>

@@ -37,6 +37,7 @@ images = [""]
 
 #### Šestomesečni finansijski izveštaji
 
+{{< target-blank title="Šestomesečni izveštaj za 2021. godinu" url="/docs/finansijski_izvestaji/sestomesecni_2021.pdf" >}}  
 {{< target-blank title="Šestomesečni izveštaj za 2020. godinu" url="/docs/finansijski_izvestaji/sestomesecni_2020.pdf" >}}  
 {{< target-blank title="Šestomesečni izveštaj za 2019. godinu" url="/docs/finansijski_izvestaji/sestomesecni_2019.pdf" >}}  
 {{< target-blank title="Šestomesečni izveštaj za 2018. godinu" url="/docs/finansijski_izvestaji/sestomesecni_2018.pdf" >}}

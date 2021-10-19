@@ -142,10 +142,10 @@ url = "/documents/cenovnik/"
 weight = 7
 
 [[menu.main]]
-identifier = "javne-nabavke"
-name = "Javne nabavke"
-pre = "<i class='far fa-newspaper'></i>"
-url = "/documents/javne_nabavke"
+identifier = "covid19-testiranje"
+name = "Covid19 testiranje"
+pre = "<i class='fas fa-flask'></i>"
+url = "/blog/2020/testiranje-na-licni-zahtev/"
 weight = 9
 
 [[menu.main]]

@@ -22,5 +22,8 @@ images = [""]
     <a href="/docs/cenovnik.pdf" target="_blanc"><img src="/img/main/pdf-icon.png" alt="Cenovnik" title="Cenovnik" /></a><br>
     <section id="categories">
         <h3>Preuzmite Cenovnika Zavoda<br> u pdf formatu</h3>
+         <a href="/docs/dopuna-cenovnika-20210910.pdf" target="_blanc">
+        <strong>Odluka UO Zavoda o dopuni Cenovnika od 10.09.2021. godine</strong>
+         </a>
     </section>
 </div>
