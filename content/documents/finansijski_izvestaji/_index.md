@@ -27,13 +27,14 @@ images = [""]
 
 {{< target-blank title="Dvanaestomesečni izveštaj za 2020. godinu" url="/docs/finansijski_izvestaji/dvanaestomesecni_2020.pdf" >}}  
 {{< target-blank title="Dvanaestomesečni izveštaj za 2019. godinu" url="/docs/finansijski_izvestaji/dvanaestomesecni_2019.pdf" >}}  
-{{< target-blank title="Dvanaestomesečni izveštaj za 2018. godinu" url="/docs/finansijski_izvestaji/dvanaestomesecni_2018.pdf" >}}  
+{{< target-blank title="Dvanaestomesečni izveštaj za 2018. godinu" url="/docs/finansijski_izvestaji/dvanaestomesecni_2018.pdf" >}}
 
 #### Devetomesečni finansijski izveštaji
 
+{{< target-blank title="Devetomesečni izveštaj za 2021. godinu" url="/docs/finansijski_izvestaji/devetomesecni_2021.pdf" >}}  
 {{< target-blank title="Devetomesečni izveštaj za 2020. godinu" url="/docs/finansijski_izvestaji/devetomesecni_2020.pdf" >}}  
 {{< target-blank title="Devetomesečni izveštaj za 2019. godinu" url="/docs/finansijski_izvestaji/devetomesecni_2019.pdf" >}}  
-{{< target-blank title="Devetomesečni izveštaj za 2018. godinu" url="/docs/finansijski_izvestaji/devetomesecni_2018.pdf" >}}  
+{{< target-blank title="Devetomesečni izveštaj za 2018. godinu" url="/docs/finansijski_izvestaji/devetomesecni_2018.pdf" >}}
 
 #### Šestomesečni finansijski izveštaji
 
@@ -54,22 +55,23 @@ images = [""]
 **2021. godina**  
 {{< target-blank title="Finansijski plan za 2021. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2021.pdf" >}}  
 {{< target-blank title="I izmena Finansijskog plana za 2021. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2021_I_izmena.pdf" >}}  
+{{< target-blank title="II izmena Finansijskog plana za 2021. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2021_II_izmena.pdf" >}}
 
 **2020. godina**  
 {{< target-blank title="III rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_III.pdf" >}}  
 {{< target-blank title="II rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_II.pdf" >}}  
-{{< target-blank title="I rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_I.pdf" >}}  
+{{< target-blank title="I rebalans Finansijskog plana za 2020. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2020_I.pdf" >}}
 
-{{< target-blank title="Finansijski plan za 2020. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2020.pdf" >}}  
+{{< target-blank title="Finansijski plan za 2020. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2020.pdf" >}}
 
 **2019. godina**  
 {{< target-blank title="III rebalans Finansijskog plana za 2019. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2019_III.pdf" >}}  
 {{< target-blank title="II rebalans Finansijskog plana za 2019. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2019_II.pdf" >}}  
-{{< target-blank title="I rebalans Finansijskog plana za 2019. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2019_I.pdf" >}}  
+{{< target-blank title="I rebalans Finansijskog plana za 2019. godinu" url="/docs/finansijski_izvestaji/rebalans_finansijskog_plana_2019_I.pdf" >}}
 
 {{< target-blank title="Finansijski plan za 2019. godinu - III izmena" url="/docs/finansijski_izvestaji/finansijski_plan_2019_III_izmena.pdf" >}}  
 {{< target-blank title="Finansijski plan za 2019. godinu - II izmena" url="/docs/finansijski_izvestaji/finansijski_plan_2019_II_izmena.pdf" >}}  
-{{< target-blank title="Finansijski plan za 2019. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2019.pdf" >}}  
+{{< target-blank title="Finansijski plan za 2019. godinu" url="/docs/finansijski_izvestaji/finansijski_plan_2019.pdf" >}}
 
 **2018. godina**  
 {{< target-blank title="Finansijski plan za 2018. godinu - III izmena" url="/docs/finansijski_izvestaji/finansijski_plan_2018_III_izmena.pdf" >}}  

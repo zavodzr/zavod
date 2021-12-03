@@ -12,6 +12,7 @@ images = [""]
 ### Analize zdravstvenog stanja stanovništva Srednjebanatskog okruga
 
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2019. godini](/docs/analize/AZSS_SBO/AZSS_2019.pdf)  
+[Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2019. godini - odabrana poglavlja](/docs/analize/AZSS_SBO/AZSS_2019_OP.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2018. godini](/docs/analize/AZSS_SBO/AZSS_2018.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2017. godini](/docs/analize/AZSS_SBO/AZSS_2017.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2016. godini](/docs/analize/AZSS_SBO/AZSS_2016.pdf)  
@@ -30,14 +31,14 @@ images = [""]
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2005. godini](/docs/analize/AZSS_SBO/AZSS_2005.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga od 2001. do 2004. godine](/docs/analize/AZSS_SBO/AZSS_2001_2004.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga od 1995. do 2000. godine](/docs/analize/AZSS_SBO/AZSS_1995_2000.pdf)  
-[Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga od 1991. do 1994. godine](/docs/analize/AZSS_SBO/AZSS_1991_1994.pdf)  
+[Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga od 1991. do 1994. godine](/docs/analize/AZSS_SBO/AZSS_1991_1994.pdf)
 
 ### Analize rada ustanova primarne zdravstvene zaštite
 
 [Analiza rada ustanova primarne zdravstvene zaštite u 2018. godini](/docs/analize/AP_SBO/AP_2018.pdf)  
 [Analiza rada ustanova primarne zdravstvene zaštite u 2017. godini](/docs/analize/AP_SBO/AP_2017.pdf)  
 [Analiza rada ustanova primarne zdravstvene zaštite u 2016. godini](/docs/analize/AP_SBO/AP_2016.pdf)  
-[Analiza rada ustanova primarne zdravstvene zaštite u 2015. godini](/docs/analize/AP_SBO/AP_2015.pdf)  
+[Analiza rada ustanova primarne zdravstvene zaštite u 2015. godini](/docs/analize/AP_SBO/AP_2015.pdf)
 
 ### Analiza rada stacionarnih ustanova
 
@@ -52,7 +53,7 @@ images = [""]
 [Analiza rada stacionara u 2010. godini](/docs/analize/AS_SBO/AS_2010.pdf)  
 [Analiza rada stacionara u 2009. godini](/docs/analize/AS_SBO/AS_2009.pdf)  
 [Analiza rada stacionara u 2008. godini](/docs/analize/AS_SBO/AS_2008.pdf)  
-[Analiza rada stacionara u 2007. godini](/docs/analize/AS_SBO/AS_2007.pdf)  
+[Analiza rada stacionara u 2007. godini](/docs/analize/AS_SBO/AS_2007.pdf)
 
 ### Pokazatelji kvaliteta rada zdravstvenih ustanova u Srednjebanatskom okrugu
 
@@ -67,7 +68,7 @@ images = [""]
 [Pokazatelji kvaliteta rada zdravstvenih ustanova u 2010. godini](/docs/analize/PKZU_SBO/PKZU_2010.pdf)  
 [Pokazatelji kvaliteta rada zdravstvenih ustanova u 2009. godini](/docs/analize/PKZU_SBO/PKZU_2009.pdf)  
 [Pokazatelji kvaliteta rada zdravstvenih ustanova u 2008. godini](/docs/analize/PKZU_SBO/PKZU_2008.pdf)  
-[Pokazatelji kvaliteta rada zdravstvenih ustanova u 2007. godini](/docs/analize/PKZU_SBO/PKZU_2007.pdf)  
+[Pokazatelji kvaliteta rada zdravstvenih ustanova u 2007. godini](/docs/analize/PKZU_SBO/PKZU_2007.pdf)
 
 ### Zadovoljstvo korisnika zdravstvenom zaštitom
 
@@ -82,7 +83,7 @@ images = [""]
 [Zadovoljstvo korisnika zdravstvenom zaštitom u 2010. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2010.pdf)  
 [Zadovoljstvo korisnika zdravstvenom zaštitom u 2009. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2009.pdf)  
 [Zadovoljstvo korisnika zdravstvenom zaštitom u 2008. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2008.pdf)  
-[Zadovoljstvo korisnika zdravstvenom zaštitom u 2007. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2007.pdf)  
+[Zadovoljstvo korisnika zdravstvenom zaštitom u 2007. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2007.pdf)
 
 ### Zadovoljstvo zaposlenih
 
@@ -97,4 +98,4 @@ images = [""]
 [Zadovoljstvo zaposlenih u 2010. godini](/docs/analize/ZZ_SBO/ZZ_2010.pdf)  
 [Zadovoljstvo zaposlenih u 2009. godini](/docs/analize/ZZ_SBO/ZZ_2009.pdf)  
 [Zadovoljstvo zaposlenih u 2008. godini](/docs/analize/ZZ_SBO/ZZ_2008.pdf)  
-[Zadovoljstvo zaposlenih u 2007. godini](/docs/analize/ZZ_SBO/ZZ_2007.pdf)  
+[Zadovoljstvo zaposlenih u 2007. godini](/docs/analize/ZZ_SBO/ZZ_2007.pdf)

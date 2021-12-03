@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Korona virus"]
-date = "2021-10-19"
+date = "2021-10-28"
 description = "Testiranje na lični zahtev"
 images = ["/img/main/corona_virus.png"]
 linktitle = ""
@@ -18,7 +18,7 @@ Testiranje može da se zakaže za najviše 5 članova porodice. Testiranje može
 
 Nakon što odaberete broj lica koja žele da se testiraju na lični zahtev, potrebno je da popunite sva navedena polja i kliknete na taster Zakaži.
 
-Testiranje PCR testom na lični zahtev se plaća. Sve informacije u vezi uplata možete pronaći na sajtu {{< target-blank title="Republičkog fonda za zdravstveno osiguranje" url="https://www.rfzo.rs/index.php?option=com_content&view=article&layout=edit&id=1057" >}}.
+Testiranje PCR testom na lični zahtev se plaća. Sve informacije u vezi uplata možete pronaći na sajtu {{< target-blank title="Republičkog fonda za zdravstveno osiguranje" url="https://www.rfzo.rs/index.php/vesti/1075-vest201" >}}.
 
 Da biste zakazali termin **nije** potrebno da budete registrovan korisnik Portala eUprave.
 
@@ -34,7 +34,7 @@ Vreme dobijanja rezulatata je <strong><span style="color: red;">24-48 sati</span
 
 Testiranje brzim antigenskim testom se ne zakazuje. Potrebno je da uplatite iznos iz instrukcije sa sajta RFZO-a i da u periodu od 8.30 do 9.00 sa uplatnicom i popunjenim **{{< target-blank title="Zahtevom za testiranje" url="/docs/covid19/zahtev_za_testiranje.pdf" >}}** dođete u Zavod.
 
-Testiranje brzim antigenskim testom na lični zahtev se plaća. Sve informacije u vezi uplata možete pronaći na sajtu {{< target-blank title="Republičkog fonda za zdravstveno osiguranje" url="https://www.rfzo.rs/index.php?option=com_content&view=article&layout=edit&id=1057" >}}.
+Testiranje brzim antigenskim testom na lični zahtev se plaća. Sve informacije u vezi uplata možete pronaći na sajtu {{< target-blank title="Republičkog fonda za zdravstveno osiguranje" url="https://www.rfzo.rs/index.php/vesti/1075-vest201" >}}.
 
 <strong>Testiranje brzim Ag testom se radi svaki dan osim nedelje (ponedeljak-subota) od 8.30 do 9.00</strong>
 
@@ -44,9 +44,19 @@ Serološko testiranje brzim imunohromatografskim testom se ne zakazuje. Potrebno
 
 Zavod za javno zdravlje Zrenjanin trenutno radi samo kvalitativni test koji određuje prisustvo antitela virusa, **ne i količinu antitela**.
 
-Testiranje brzim imunohromatografskim testom na lični zahtev se plaća. Sve informacije u vezi uplata možete pronaći na sajtu {{< target-blank title="Republičkog fonda za zdravstveno osiguranje" url="https://www.rfzo.rs/index.php?option=com_content&view=article&layout=edit&id=1057" >}}.
+Testiranje brzim imunohromatografskim testom na lični zahtev se plaća. Sve informacije u vezi uplata možete pronaći na sajtu {{< target-blank title="Republičkog fonda za zdravstveno osiguranje" url="https://www.rfzo.rs/index.php/vesti/1075-vest201" >}}.
 
 <strong>Testiranje brzim serološkim testom se radi radnim danima (ponedeljak-petak) od 10.00 do 11.30</strong>
+
+<h2 style="color: #2ebaae">Dokazivanje prisustva IgG antitela na SARS-CoV-2 virus ELISA tehnikom</h2>
+
+Zavod za javno zdravlje Zrenjanin vrši kvantitativno dokazivanje prisustva IgG antitelana SARS-CoV-2 virusa.
+
+Analiza se može uraditi na lični zahtev ili na osnovu uputa izabranog lekara.
+
+Uzorkovanje se vrši svaki radni dan od 10.00 do 11.30 sati, rezultati se čekaju od 2 do 7 dana.
+
+Dokazivanje prisustva IgG antitela na SARS-CoV-2 virus ELISA tehnikom na lični zahtev se plaća. Sve informacije u vezi uplata možete pronaći na sajtu {{< target-blank title="Republičkog fonda za zdravstveno osiguranje" url="https://www.rfzo.rs/index.php/vesti/1075-vest201" >}}.
 
 <h4 style="color: red;">Sve uplate se vrše isključivo na račun Republičkog fonda za zdravstveno osiguranje.</h4>
 
