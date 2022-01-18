@@ -1,6 +1,6 @@
 +++
 author = "admin"
-categories = ["Duvan"]
+categories = ["Pravilna ishrana"]
 date = "2020-12-14"
 description = "Dodeljene nagrade učesnicima konkursa Oktobar - mesec pravilne ishrane 2020. godine"
 images = ["/img/oktobar-2020/poster_800.jpg"]

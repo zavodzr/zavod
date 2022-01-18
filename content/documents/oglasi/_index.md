@@ -7,6 +7,10 @@ images = [""]
 
 +++
 
+17.01.2022. - [**Javni oglas za zasnivanje radnog odnosa na određeno vreme - Hemijski tehničar (1 izvršilac)**](/docs/oglasi/oglas_hemijski_tehnicar_20220117.pdf)
+
+05.01.2022. - [**Javni oglas za zasnivanje radnog odnosa na određeno vreme - Laboratorijski tehničar u dijagnostici (1 izvršilac)**](/docs/oglasi/oglas_lab_tehnicar_20220105.pdf)
+
 07.12.2021. - [**Javni oglas za zasnivanje radnog odnosa na određeno vreme - Blagajnik (1 izvršilac)**](/docs/oglasi/oglas_blagajnik_20211206.pdf)
 
 28.06.2021. - [**Javni oglas za zasnivanje radnog odnosa na određeno vreme - Biolog/Molekularni biolog (1 izvršilac)**](/docs/oglasi/oglas_biolog_3.pdf)
