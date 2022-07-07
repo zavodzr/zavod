@@ -19,4 +19,4 @@ images = [""]
 
 [**Opšta pravila poslovanja Zavoda za javno zdravlje Zrenajnin**](/docs/opsti-akti/opsta_pravila_poslovanja.pdf)
 
-[**Kadrovski podaci na dan 25.2.2021. godine**](/docs/opsti-akti/kadrovski_podaci.pdf)
+[**Kadrovski podaci**](/docs/opsti-akti/kadrovski_podaci.pdf)

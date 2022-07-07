@@ -7,10 +7,11 @@ images = [""]
 
 +++
 
-![Analize](/img/main/analyze.jpg "Analize")
+![Analize](/img/main/analyze.jpg 'Analize')
 
 ### Analize zdravstvenog stanja stanovništva Srednjebanatskog okruga
 
+[Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2020. godini](/docs/analize/AZSS_SBO/AZSS_2020.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2019. godini](/docs/analize/AZSS_SBO/AZSS_2019.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2019. godini - odabrana poglavlja](/docs/analize/AZSS_SBO/AZSS_2019_OP.pdf)  
 [Analiza zdravstvenog stanja stanovništva Srednjebanatskog okruga u 2018. godini](/docs/analize/AZSS_SBO/AZSS_2018.pdf)  
@@ -35,6 +36,9 @@ images = [""]
 
 ### Analize rada ustanova primarne zdravstvene zaštite
 
+[Analiza rada ustanova primarne zdravstvene zaštite u 2021. godini](/docs/analize/AP_SBO/AP_2021.pdf)  
+[Analiza rada ustanova primarne zdravstvene zaštite u 2020. godini](/docs/analize/AP_SBO/AP_2020.pdf)  
+[Analiza rada ustanova primarne zdravstvene zaštite u 2019. godini](/docs/analize/AP_SBO/AP_2019.pdf)  
 [Analiza rada ustanova primarne zdravstvene zaštite u 2018. godini](/docs/analize/AP_SBO/AP_2018.pdf)  
 [Analiza rada ustanova primarne zdravstvene zaštite u 2017. godini](/docs/analize/AP_SBO/AP_2017.pdf)  
 [Analiza rada ustanova primarne zdravstvene zaštite u 2016. godini](/docs/analize/AP_SBO/AP_2016.pdf)  
@@ -42,6 +46,9 @@ images = [""]
 
 ### Analiza rada stacionarnih ustanova
 
+[Analiza rada stacionara u 2021. godini](/docs/analize/AS_SBO/AS_2021.pdf)  
+[Analiza rada stacionara u 2020. godini](/docs/analize/AS_SBO/AS_2020.pdf)  
+[Analiza rada stacionara u 2019. godini](/docs/analize/AS_SBO/AS_2019.pdf)  
 [Analiza rada stacionara u 2018. godini](/docs/analize/AS_SBO/AS_2018.pdf)  
 [Analiza rada stacionara u 2017. godini](/docs/analize/AS_SBO/AS_2017.pdf)  
 [Analiza rada stacionara u 2016. godini](/docs/analize/AS_SBO/AS_2016.pdf)  
@@ -57,6 +64,9 @@ images = [""]
 
 ### Pokazatelji kvaliteta rada zdravstvenih ustanova u Srednjebanatskom okrugu
 
+[Pokazatelji kvaliteta rada zdravstvenih ustanova u 2021. godini](/docs/analize/PKZU_SBO/PKZU_2021.pdf)  
+[Pokazatelji kvaliteta rada zdravstvenih ustanova u 2020. godini](/docs/analize/PKZU_SBO/PKZU_2020.pdf)  
+[Pokazatelji kvaliteta rada zdravstvenih ustanova u 2019. godini](/docs/analize/PKZU_SBO/PKZU_2019.pdf)  
 [Pokazatelji kvaliteta rada zdravstvenih ustanova u 2018. godini](/docs/analize/PKZU_SBO/PKZU_2018.pdf)  
 [Pokazatelji kvaliteta rada zdravstvenih ustanova u 2017. godini](/docs/analize/PKZU_SBO/PKZU_2017.pdf)  
 [Pokazatelji kvaliteta rada zdravstvenih ustanova u 2016. godini](/docs/analize/PKZU_SBO/PKZU_2016.pdf)  
@@ -72,6 +82,9 @@ images = [""]
 
 ### Zadovoljstvo korisnika zdravstvenom zaštitom
 
+[Zadovoljstvo korisnika zdravstvenom zaštitom u 2021. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2021.pdf)  
+[Zadovoljstvo korisnika zdravstvenom zaštitom u 2020. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2020.pdf)  
+[Zadovoljstvo korisnika zdravstvenom zaštitom u 2019. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2019.pdf)  
 [Zadovoljstvo korisnika zdravstvenom zaštitom u 2018. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2018.pdf)  
 [Zadovoljstvo korisnika zdravstvenom zaštitom u 2017. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2017.pdf)  
 [Zadovoljstvo korisnika zdravstvenom zaštitom u 2016. godini](/docs/analize/ZKZZ_SBO/ZKZZ_2016.pdf)  
@@ -87,6 +100,9 @@ images = [""]
 
 ### Zadovoljstvo zaposlenih
 
+[Zadovoljstvo zaposlenih u 2021. godini](/docs/analize/ZZ_SBO/ZZ_2021.pdf)  
+[Zadovoljstvo zaposlenih u 2020. godini](/docs/analize/ZZ_SBO/ZZ_2020.pdf)  
+[Zadovoljstvo zaposlenih u 2019. godini](/docs/analize/ZZ_SBO/ZZ_2019.pdf)  
 [Zadovoljstvo zaposlenih u 2018. godini](/docs/analize/ZZ_SBO/ZZ_2018.pdf)  
 [Zadovoljstvo zaposlenih u 2017. godini](/docs/analize/ZZ_SBO/ZZ_2017.pdf)  
 [Zadovoljstvo zaposlenih u 2016. godini](/docs/analize/ZZ_SBO/ZZ_2016.pdf)  
