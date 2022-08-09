@@ -1,7 +1,7 @@
 +++
 author = "admin"
 categories = ["Aerozagađenje"]
-date = "2022-07-07"
+date = "2022-07-20"
 description = "Praćenje stanja aeropolena u vazduhu"
 images = ["/img/aeropolen/pollen_1920_700.jpg"]
 linktitle = ""
@@ -14,7 +14,7 @@ type = "post"
 
 Monitoring polena u vazduhu na teritoriji AP Vojvodine sprovodi Univerzitet u Novom Sadu, Prirodno–matematički fakultet (Departman za biologiju i ekologiju, Laboratorija za palinologiju) sa podizvođačem Institut BioSens, Novi Sad.
 
-![Aeropolen](/img/aeropolen/zr-polen.png 'Aeropolen')
+![Aeropolen](/img/aeropolen/zr-polen.png "Aeropolen")
 
 ### Godišnji izveštaji
 
